@@ -1,0 +1,61 @@
+\documentclass[6pt]{article}      
+
+\usepackage{texshade}      
+\headheight=0pt
+\headsep=0pt
+\hoffset=0pt
+\voffset=0pt
+\paperwidth=11.69in
+\paperheight=9.69in
+\ifx\pdfoutput\undefined
+\relax
+\else
+\pdfpagewidth=\paperwidth
+\pdfpageheight=\paperheight
+\fi
+\oddsidemargin=-0.5in
+\topmargin=-0.5in
+\textwidth=10.69in
+\textheight=9.27in      
+% \bottommargin=-0.5in
+\pagestyle{empty}
+\begin{document}
+
+
+\begin{texshade}{"test.dqa.alignment.fa"}
+\rulerspace{1mm}
+\seqtype{N}
+\shadingmode[allmatchspecial]{similar}
+\shadingcolors{grays}
+\fingerprint{768}
+\feature{ttop}{1}{1..82}{brace[Orange]}{Exon 1}
+\feature{ttop}{1}{83..331}{brace[Plum]}{Exon 2}
+\feature{ttop}{1}{332..613}{brace[Green]}{Exon 3}
+\feature{ttop}{1}{614..768}{brace[Yellow]}{Exon 4}
+\frameblock{1}{60..84}{Red[1pt]}
+\frameblock{1}{340..365}{Turquoise[1pt]}
+\feature{top}{1}{62..82}{box[Red,Red][0.5pt]: [Yellow]}{Forward}
+\feature{top}{1}{343..362}{box[Turquoise,Turquoise][0.5pt]: [Yellow]}{Reverse}
+\feature{top}{1}{82..342}{---}{Amplicon}
+\showlegend
+\showruler{top}{1} \rulersteps{50}
+\end{texshade}
+\begin{texshade}{"test.dqa.alignment.fa"}
+\seqtype{N}
+\shadingmode[allmatchspecial]{similar}
+\shadingcolors{grays}
+\setends{1}{60..84}
+\end{texshade}
+\begin{texshade}{"test.dqa.alignment.fa"}
+\seqtype{N}
+\shadingmode[allmatchspecial]{similar}
+\shadingcolors{grays}
+\setends{1}{340..365}
+\end{texshade}
+\end{document}
+% \shadingmode[chemical]{similar}
+% \threshold[0]{0}
+% \hideconsensus[ColdHot]{bottom}
+% \hideconsensus
+% \defconsensus{.}{lower}{upper}
+
