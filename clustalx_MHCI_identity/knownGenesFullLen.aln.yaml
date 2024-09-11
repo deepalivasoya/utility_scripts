@@ -1,0 +1,3140 @@
+0: !!python/object/apply:collections.Counter
+- {'-': 98, G: 1}
+1: !!python/object/apply:collections.Counter
+- {'-': 98, G: 1}
+2: !!python/object/apply:collections.Counter
+- {'-': 98, T: 1}
+3: !!python/object/apply:collections.Counter
+- {'-': 98, T: 1}
+4: !!python/object/apply:collections.Counter
+- {'-': 98, T: 1}
+5: !!python/object/apply:collections.Counter
+- {'-': 98, C: 1}
+6: !!python/object/apply:collections.Counter
+- {'-': 98, T: 1}
+7: !!python/object/apply:collections.Counter
+- {'-': 98, T: 1}
+8: !!python/object/apply:collections.Counter
+- {'-': 97, C: 2}
+9: !!python/object/apply:collections.Counter
+- {'-': 97, C: 1, G: 1}
+10: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, C: 1}
+11: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+12: !!python/object/apply:collections.Counter
+- {'-': 97, G: 2}
+13: !!python/object/apply:collections.Counter
+- {'-': 97, A: 2}
+14: !!python/object/apply:collections.Counter
+- {'-': 97, C: 1, T: 1}
+15: !!python/object/apply:collections.Counter
+- {'-': 97, G: 1, T: 1}
+16: !!python/object/apply:collections.Counter
+- {'-': 97, C: 2}
+17: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+18: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+19: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+20: !!python/object/apply:collections.Counter
+- {'-': 97, G: 1, T: 1}
+21: !!python/object/apply:collections.Counter
+- {'-': 97, G: 1, T: 1}
+22: !!python/object/apply:collections.Counter
+- {'-': 91, A: 8}
+23: !!python/object/apply:collections.Counter
+- {'-': 91, T: 8}
+24: !!python/object/apply:collections.Counter
+- {'-': 91, G: 8}
+25: !!python/object/apply:collections.Counter
+- {'-': 90, C: 9}
+26: !!python/object/apply:collections.Counter
+- {'-': 90, G: 9}
+27: !!python/object/apply:collections.Counter
+- {'-': 90, A: 9}
+28: !!python/object/apply:collections.Counter
+- {'-': 89, G: 10}
+29: !!python/object/apply:collections.Counter
+- {'-': 89, T: 10}
+30: !!python/object/apply:collections.Counter
+- {'-': 70, C: 23, T: 5, Y: 1}
+31: !!python/object/apply:collections.Counter
+- {'-': 58, A: 40, C: 1}
+32: !!python/object/apply:collections.Counter
+- {'-': 58, T: 41}
+33: !!python/object/apply:collections.Counter
+- {'-': 58, C: 1, G: 40}
+34: !!python/object/apply:collections.Counter
+- {'-': 58, A: 3, C: 1, G: 37}
+35: !!python/object/apply:collections.Counter
+- {'-': 57, G: 41, T: 1}
+36: !!python/object/apply:collections.Counter
+- {'-': 57, G: 42}
+37: !!python/object/apply:collections.Counter
+- {'-': 57, C: 42}
+38: !!python/object/apply:collections.Counter
+- {'-': 57, C: 41, T: 1}
+39: !!python/object/apply:collections.Counter
+- {'-': 56, G: 43}
+40: !!python/object/apply:collections.Counter
+- {'-': 56, C: 42, G: 1}
+41: !!python/object/apply:collections.Counter
+- {'-': 56, G: 42, T: 1}
+42: !!python/object/apply:collections.Counter
+- {'-': 56, A: 42, C: 1}
+43: !!python/object/apply:collections.Counter
+- {'-': 56, A: 36, G: 6, T: 1}
+44: !!python/object/apply:collections.Counter
+- {'-': 52, C: 45, G: 2}
+45: !!python/object/apply:collections.Counter
+- {'-': 36, C: 62, G: 1}
+46: !!python/object/apply:collections.Counter
+- {'-': 35, C: 63, G: 1}
+47: !!python/object/apply:collections.Counter
+- {'-': 35, G: 1, T: 63}
+48: !!python/object/apply:collections.Counter
+- {'-': 35, C: 63, G: 1}
+49: !!python/object/apply:collections.Counter
+- {'-': 6, A: 2, C: 67, G: 1, T: 23}
+50: !!python/object/apply:collections.Counter
+- {'-': 3, T: 96}
+51: !!python/object/apply:collections.Counter
+- {'-': 3, C: 94, G: 2}
+52: !!python/object/apply:collections.Counter
+- {'-': 3, A: 7, C: 72, G: 16, T: 1}
+53: !!python/object/apply:collections.Counter
+- {'-': 3, A: 1, T: 95}
+54: !!python/object/apply:collections.Counter
+- {'-': 3, G: 96}
+55: !!python/object/apply:collections.Counter
+- {'-': 3, C: 95, G: 1}
+56: !!python/object/apply:collections.Counter
+- {'-': 3, T: 96}
+57: !!python/object/apply:collections.Counter
+- {'-': 3, A: 5, G: 91}
+58: !!python/object/apply:collections.Counter
+- {'-': 3, C: 96}
+59: !!python/object/apply:collections.Counter
+- {'-': 3, C: 2, T: 94}
+60: !!python/object/apply:collections.Counter
+- {'-': 3, C: 95, T: 1}
+61: !!python/object/apply:collections.Counter
+- {'-': 3, T: 96}
+62: !!python/object/apply:collections.Counter
+- {'-': 3, C: 71, T: 25}
+63: !!python/object/apply:collections.Counter
+- {'-': 3, G: 96}
+64: !!python/object/apply:collections.Counter
+- {'-': 3, C: 2, G: 94}
+65: !!python/object/apply:collections.Counter
+- {'-': 3, G: 96}
+66: !!python/object/apply:collections.Counter
+- {'-': 3, G: 96}
+67: !!python/object/apply:collections.Counter
+- {'-': 3, G: 96}
+68: !!python/object/apply:collections.Counter
+- {'-': 3, C: 24, T: 72}
+69: !!python/object/apply:collections.Counter
+- {'-': 3, C: 92, G: 1, T: 3}
+70: !!python/object/apply:collections.Counter
+- {'-': 1, C: 97, T: 1}
+71: !!python/object/apply:collections.Counter
+- {'-': 98, G: 1}
+72: !!python/object/apply:collections.Counter
+- {'-': 98, G: 1}
+73: !!python/object/apply:collections.Counter
+- {'-': 98, G: 1}
+74: !!python/object/apply:collections.Counter
+- {'-': 98, T: 1}
+75: !!python/object/apply:collections.Counter
+- {'-': 98, C: 1}
+76: !!python/object/apply:collections.Counter
+- {'-': 98, C: 1}
+77: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+78: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+79: !!python/object/apply:collections.Counter
+- {'-': 1, A: 1, G: 97}
+80: !!python/object/apply:collections.Counter
+- {'-': 1, C: 6, T: 92}
+81: !!python/object/apply:collections.Counter
+- {'-': 1, A: 1, C: 97}
+82: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+83: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+84: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+85: !!python/object/apply:collections.Counter
+- {'-': 1, A: 98}
+86: !!python/object/apply:collections.Counter
+- {'-': 1, C: 91, T: 7}
+87: !!python/object/apply:collections.Counter
+- {'-': 1, C: 92, T: 6}
+88: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+89: !!python/object/apply:collections.Counter
+- {'-': 1, A: 97, G: 1}
+90: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+91: !!python/object/apply:collections.Counter
+- {'-': 1, A: 98}
+92: !!python/object/apply:collections.Counter
+- {'-': 1, A: 1, C: 97}
+93: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+94: !!python/object/apply:collections.Counter
+- {'-': 1, C: 90, G: 7, T: 1}
+95: !!python/object/apply:collections.Counter
+- {'-': 1, G: 68, T: 30}
+96: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+97: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+98: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+99: !!python/object/apply:collections.Counter
+- {'-': 1, A: 5, G: 32, T: 61}
+100: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+101: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+102: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+103: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+104: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+105: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+106: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+107: !!python/object/apply:collections.Counter
+- {'-': 1, A: 98}
+108: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+109: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+110: !!python/object/apply:collections.Counter
+- {'-': 1, C: 95, T: 3}
+111: !!python/object/apply:collections.Counter
+- {'-': 1, C: 64, G: 25, T: 9}
+112: !!python/object/apply:collections.Counter
+- {'-': 2, A: 27, C: 70}
+113: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+114: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+115: !!python/object/apply:collections.Counter
+- {'-': 1, A: 98}
+116: !!python/object/apply:collections.Counter
+- {'-': 1, A: 11, G: 87}
+117: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+118: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+119: !!python/object/apply:collections.Counter
+- {'-': 1, A: 98}
+120: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+121: !!python/object/apply:collections.Counter
+- {'-': 1, C: 1, T: 97}
+122: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+123: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+124: !!python/object/apply:collections.Counter
+- {'-': 1, A: 37, C: 15, T: 46}
+125: !!python/object/apply:collections.Counter
+- {'-': 1, A: 58, G: 36, T: 4}
+126: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+127: !!python/object/apply:collections.Counter
+- {'-': 1, A: 98}
+128: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+129: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+130: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+131: !!python/object/apply:collections.Counter
+- {'-': 1, C: 81, G: 17}
+132: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+133: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+134: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+135: !!python/object/apply:collections.Counter
+- {'-': 1, A: 3, G: 95}
+136: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+137: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+138: !!python/object/apply:collections.Counter
+- {'-': 1, C: 84, T: 14}
+139: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+140: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+141: !!python/object/apply:collections.Counter
+- {'-': 1, A: 6, G: 92}
+142: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+143: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+144: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+145: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+146: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+147: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+148: !!python/object/apply:collections.Counter
+- {'-': 1, C: 71, G: 12, T: 15}
+149: !!python/object/apply:collections.Counter
+- {'-': 1, A: 11, T: 87}
+150: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+151: !!python/object/apply:collections.Counter
+- {'-': 1, A: 1, C: 7, G: 90}
+152: !!python/object/apply:collections.Counter
+- {'-': 1, A: 2, G: 96}
+153: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+154: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+155: !!python/object/apply:collections.Counter
+- {'-': 1, A: 98}
+156: !!python/object/apply:collections.Counter
+- {'-': 1, A: 2, G: 96}
+157: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+158: !!python/object/apply:collections.Counter
+- {'-': 1, C: 98}
+159: !!python/object/apply:collections.Counter
+- {'-': 1, C: 94, G: 4}
+160: !!python/object/apply:collections.Counter
+- {'-': 1, A: 1, C: 97}
+161: !!python/object/apply:collections.Counter
+- {'-': 1, A: 1, G: 90, T: 7}
+162: !!python/object/apply:collections.Counter
+- {'-': 1, C: 68, G: 29, T: 1}
+163: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+164: !!python/object/apply:collections.Counter
+- {'-': 1, A: 29, T: 69}
+165: !!python/object/apply:collections.Counter
+- {'-': 1, C: 89, T: 9}
+166: !!python/object/apply:collections.Counter
+- {'-': 1, A: 68, C: 29, T: 1}
+167: !!python/object/apply:collections.Counter
+- {'-': 1, T: 98}
+168: !!python/object/apply:collections.Counter
+- {'-': 1, C: 68, G: 29, T: 1}
+169: !!python/object/apply:collections.Counter
+- {'-': 1, A: 33, G: 54, T: 11}
+170: !!python/object/apply:collections.Counter
+- {'-': 1, A: 30, C: 55, T: 13}
+171: !!python/object/apply:collections.Counter
+- {'-': 1, A: 29, C: 60, T: 9}
+172: !!python/object/apply:collections.Counter
+- {G: 99}
+173: !!python/object/apply:collections.Counter
+- {T: 99}
+174: !!python/object/apply:collections.Counter
+- {C: 89, T: 10}
+175: !!python/object/apply:collections.Counter
+- {G: 99}
+176: !!python/object/apply:collections.Counter
+- {G: 99}
+177: !!python/object/apply:collections.Counter
+- {C: 99}
+178: !!python/object/apply:collections.Counter
+- {T: 99}
+179: !!python/object/apply:collections.Counter
+- {A: 99}
+180: !!python/object/apply:collections.Counter
+- {C: 95, T: 4}
+181: !!python/object/apply:collections.Counter
+- {G: 99}
+182: !!python/object/apply:collections.Counter
+- {T: 99}
+183: !!python/object/apply:collections.Counter
+- {C: 1, G: 98}
+184: !!python/object/apply:collections.Counter
+- {G: 99}
+185: !!python/object/apply:collections.Counter
+- {A: 99}
+186: !!python/object/apply:collections.Counter
+- {C: 99}
+187: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+188: !!python/object/apply:collections.Counter
+- {A: 99}
+189: !!python/object/apply:collections.Counter
+- {C: 99}
+190: !!python/object/apply:collections.Counter
+- {A: 98, T: 1}
+191: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+192: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+193: !!python/object/apply:collections.Counter
+- {C: 96, G: 3}
+194: !!python/object/apply:collections.Counter
+- {A: 99}
+195: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+196: !!python/object/apply:collections.Counter
+- {A: 1, T: 98}
+197: !!python/object/apply:collections.Counter
+- {T: 99}
+198: !!python/object/apply:collections.Counter
+- {C: 99}
+199: !!python/object/apply:collections.Counter
+- {A: 13, G: 86}
+200: !!python/object/apply:collections.Counter
+- {C: 14, T: 85}
+201: !!python/object/apply:collections.Counter
+- {A: 8, G: 91}
+202: !!python/object/apply:collections.Counter
+- {C: 94, T: 5}
+203: !!python/object/apply:collections.Counter
+- {A: 4, G: 95}
+204: !!python/object/apply:collections.Counter
+- {G: 99}
+205: !!python/object/apply:collections.Counter
+- {T: 99}
+206: !!python/object/apply:collections.Counter
+- {T: 99}
+207: !!python/object/apply:collections.Counter
+- {C: 95, T: 4}
+208: !!python/object/apply:collections.Counter
+- {G: 99}
+209: !!python/object/apply:collections.Counter
+- {A: 99}
+210: !!python/object/apply:collections.Counter
+- {C: 99}
+211: !!python/object/apply:collections.Counter
+- {A: 99}
+212: !!python/object/apply:collections.Counter
+- {G: 99}
+213: !!python/object/apply:collections.Counter
+- {C: 99}
+214: !!python/object/apply:collections.Counter
+- {A: 4, G: 95}
+215: !!python/object/apply:collections.Counter
+- {A: 99}
+216: !!python/object/apply:collections.Counter
+- {C: 99}
+217: !!python/object/apply:collections.Counter
+- {A: 4, C: 2, G: 88, T: 5}
+218: !!python/object/apply:collections.Counter
+- {C: 97, G: 2}
+219: !!python/object/apply:collections.Counter
+- {C: 97, T: 2}
+220: !!python/object/apply:collections.Counter
+- {C: 89, G: 9, T: 1}
+221: !!python/object/apply:collections.Counter
+- {C: 77, G: 22}
+222: !!python/object/apply:collections.Counter
+- {A: 2, G: 97}
+223: !!python/object/apply:collections.Counter
+- {A: 61, G: 38}
+224: !!python/object/apply:collections.Counter
+- {A: 99}
+225: !!python/object/apply:collections.Counter
+- {T: 99}
+226: !!python/object/apply:collections.Counter
+- {C: 99}
+227: !!python/object/apply:collections.Counter
+- {C: 99}
+228: !!python/object/apply:collections.Counter
+- {A: 17, G: 81, T: 1}
+229: !!python/object/apply:collections.Counter
+- {A: 99}
+230: !!python/object/apply:collections.Counter
+- {G: 99}
+231: !!python/object/apply:collections.Counter
+- {A: 6, G: 93}
+232: !!python/object/apply:collections.Counter
+- {A: 71, G: 28}
+233: !!python/object/apply:collections.Counter
+- {A: 37, C: 12, G: 1, T: 49}
+234: !!python/object/apply:collections.Counter
+- {A: 39, C: 3, G: 47, T: 10}
+235: !!python/object/apply:collections.Counter
+- {G: 99}
+236: !!python/object/apply:collections.Counter
+- {A: 99}
+237: !!python/object/apply:collections.Counter
+- {A: 40, G: 59}
+238: !!python/object/apply:collections.Counter
+- {C: 99}
+239: !!python/object/apply:collections.Counter
+- {C: 99}
+240: !!python/object/apply:collections.Counter
+- {A: 22, G: 77}
+241: !!python/object/apply:collections.Counter
+- {C: 99}
+242: !!python/object/apply:collections.Counter
+- {G: 99}
+243: !!python/object/apply:collections.Counter
+- {G: 99}
+244: !!python/object/apply:collections.Counter
+- {A: 16, C: 7, G: 76}
+245: !!python/object/apply:collections.Counter
+- {A: 13, C: 68, T: 18}
+246: !!python/object/apply:collections.Counter
+- {G: 99}
+247: !!python/object/apply:collections.Counter
+- {A: 2, C: 97}
+248: !!python/object/apply:collections.Counter
+- {C: 45, G: 54}
+249: !!python/object/apply:collections.Counter
+- {G: 99}
+250: !!python/object/apply:collections.Counter
+- {T: 99}
+251: !!python/object/apply:collections.Counter
+- {G: 99}
+252: !!python/object/apply:collections.Counter
+- {G: 99}
+253: !!python/object/apply:collections.Counter
+- {A: 51, G: 48}
+254: !!python/object/apply:collections.Counter
+- {T: 99}
+255: !!python/object/apply:collections.Counter
+- {A: 16, C: 1, G: 82}
+256: !!python/object/apply:collections.Counter
+- {A: 8, G: 91}
+257: !!python/object/apply:collections.Counter
+- {A: 99}
+258: !!python/object/apply:collections.Counter
+- {G: 99}
+259: !!python/object/apply:collections.Counter
+- {A: 26, C: 73}
+260: !!python/object/apply:collections.Counter
+- {A: 99}
+261: !!python/object/apply:collections.Counter
+- {A: 4, G: 95}
+262: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+263: !!python/object/apply:collections.Counter
+- {A: 99}
+264: !!python/object/apply:collections.Counter
+- {A: 4, G: 95}
+265: !!python/object/apply:collections.Counter
+- {G: 99}
+266: !!python/object/apply:collections.Counter
+- {G: 99}
+267: !!python/object/apply:collections.Counter
+- {C: 1, G: 98}
+268: !!python/object/apply:collections.Counter
+- {C: 99}
+269: !!python/object/apply:collections.Counter
+- {C: 91, T: 8}
+270: !!python/object/apply:collections.Counter
+- {A: 2, C: 7, G: 90}
+271: !!python/object/apply:collections.Counter
+- {G: 99}
+272: !!python/object/apply:collections.Counter
+- {A: 99}
+273: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+274: !!python/object/apply:collections.Counter
+- {T: 99}
+275: !!python/object/apply:collections.Counter
+- {A: 99}
+276: !!python/object/apply:collections.Counter
+- {T: 99}
+277: !!python/object/apply:collections.Counter
+- {T: 99}
+278: !!python/object/apply:collections.Counter
+- {G: 99}
+279: !!python/object/apply:collections.Counter
+- {G: 99}
+280: !!python/object/apply:collections.Counter
+- {G: 99}
+281: !!python/object/apply:collections.Counter
+- {A: 99}
+282: !!python/object/apply:collections.Counter
+- {A: 1, T: 98}
+283: !!python/object/apply:collections.Counter
+- {C: 86, G: 13}
+284: !!python/object/apply:collections.Counter
+- {A: 28, G: 71}
+285: !!python/object/apply:collections.Counter
+- {A: 12, C: 31, G: 56}
+286: !!python/object/apply:collections.Counter
+- {A: 25, C: 4, G: 70}
+287: !!python/object/apply:collections.Counter
+- {A: 98, T: 1}
+288: !!python/object/apply:collections.Counter
+- {A: 1, C: 24, G: 74}
+289: !!python/object/apply:collections.Counter
+- {A: 99}
+290: !!python/object/apply:collections.Counter
+- {C: 99}
+291: !!python/object/apply:collections.Counter
+- {A: 1, G: 91, T: 7}
+292: !!python/object/apply:collections.Counter
+- {A: 11, C: 87, T: 1}
+293: !!python/object/apply:collections.Counter
+- {A: 22, G: 77}
+294: !!python/object/apply:collections.Counter
+- {A: 97, G: 2}
+295: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+296: !!python/object/apply:collections.Counter
+- {A: 36, G: 16, T: 47}
+297: !!python/object/apply:collections.Counter
+- {A: 7, C: 66, G: 25, T: 1}
+298: !!python/object/apply:collections.Counter
+- {C: 1, G: 46, T: 52}
+299: !!python/object/apply:collections.Counter
+- {A: 12, C: 75, T: 12}
+300: !!python/object/apply:collections.Counter
+- {A: 5, C: 94}
+301: !!python/object/apply:collections.Counter
+- {A: 99}
+302: !!python/object/apply:collections.Counter
+- {A: 99}
+303: !!python/object/apply:collections.Counter
+- {G: 99}
+304: !!python/object/apply:collections.Counter
+- {G: 99}
+305: !!python/object/apply:collections.Counter
+- {A: 64, G: 35}
+306: !!python/object/apply:collections.Counter
+- {A: 33, C: 66}
+307: !!python/object/apply:collections.Counter
+- {A: 89, C: 3, G: 7}
+308: !!python/object/apply:collections.Counter
+- {A: 55, C: 43, T: 1}
+309: !!python/object/apply:collections.Counter
+- {C: 95, G: 1, T: 3}
+310: !!python/object/apply:collections.Counter
+- {A: 18, C: 1, G: 80}
+311: !!python/object/apply:collections.Counter
+- {A: 1, C: 98}
+312: !!python/object/apply:collections.Counter
+- {A: 99}
+313: !!python/object/apply:collections.Counter
+- {C: 99}
+314: !!python/object/apply:collections.Counter
+- {A: 76, T: 23}
+315: !!python/object/apply:collections.Counter
+- {A: 7, G: 92}
+316: !!python/object/apply:collections.Counter
+- {'-': 1, A: 61, C: 6, G: 13, T: 18}
+317: !!python/object/apply:collections.Counter
+- {'-': 1, A: 3, C: 46, G: 16, T: 33}
+318: !!python/object/apply:collections.Counter
+- {A: 2, G: 22, T: 75}
+319: !!python/object/apply:collections.Counter
+- {T: 99}
+320: !!python/object/apply:collections.Counter
+- {A: 23, C: 3, T: 73}
+321: !!python/object/apply:collections.Counter
+- {C: 83, T: 16}
+322: !!python/object/apply:collections.Counter
+- {C: 99}
+323: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+324: !!python/object/apply:collections.Counter
+- {A: 92, G: 7}
+325: !!python/object/apply:collections.Counter
+- {A: 5, C: 3, G: 90, T: 1}
+326: !!python/object/apply:collections.Counter
+- {A: 16, C: 12, G: 10, T: 61}
+327: !!python/object/apply:collections.Counter
+- {A: 2, G: 97}
+328: !!python/object/apply:collections.Counter
+- {A: 51, G: 41, T: 7}
+329: !!python/object/apply:collections.Counter
+- {A: 53, C: 7, G: 39}
+330: !!python/object/apply:collections.Counter
+- {C: 99}
+331: !!python/object/apply:collections.Counter
+- {C: 91, T: 8}
+332: !!python/object/apply:collections.Counter
+- {T: 99}
+333: !!python/object/apply:collections.Counter
+- {G: 99}
+334: !!python/object/apply:collections.Counter
+- {A: 99}
+335: !!python/object/apply:collections.Counter
+- {A: 99}
+336: !!python/object/apply:collections.Counter
+- {C: 99}
+337: !!python/object/apply:collections.Counter
+- {A: 97, G: 2}
+338: !!python/object/apply:collections.Counter
+- {A: 29, C: 67, G: 1, T: 2}
+339: !!python/object/apply:collections.Counter
+- {C: 99}
+340: !!python/object/apply:collections.Counter
+- {C: 83, G: 9, T: 7}
+341: !!python/object/apply:collections.Counter
+- {C: 9, T: 90}
+342: !!python/object/apply:collections.Counter
+- {A: 11, G: 88}
+343: !!python/object/apply:collections.Counter
+- {C: 99}
+344: !!python/object/apply:collections.Counter
+- {G: 88, T: 11}
+345: !!python/object/apply:collections.Counter
+- {C: 99}
+346: !!python/object/apply:collections.Counter
+- {G: 99}
+347: !!python/object/apply:collections.Counter
+- {G: 99}
+348: !!python/object/apply:collections.Counter
+- {C: 99}
+349: !!python/object/apply:collections.Counter
+- {T: 99}
+350: !!python/object/apply:collections.Counter
+- {A: 99}
+351: !!python/object/apply:collections.Counter
+- {C: 99}
+352: !!python/object/apply:collections.Counter
+- {T: 99}
+353: !!python/object/apply:collections.Counter
+- {A: 99}
+354: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+355: !!python/object/apply:collections.Counter
+- {A: 99}
+356: !!python/object/apply:collections.Counter
+- {A: 99}
+357: !!python/object/apply:collections.Counter
+- {C: 99}
+358: !!python/object/apply:collections.Counter
+- {C: 99}
+359: !!python/object/apply:collections.Counter
+- {A: 99}
+360: !!python/object/apply:collections.Counter
+- {G: 99}
+361: !!python/object/apply:collections.Counter
+- {A: 99}
+362: !!python/object/apply:collections.Counter
+- {G: 99}
+363: !!python/object/apply:collections.Counter
+- {C: 99}
+364: !!python/object/apply:collections.Counter
+- {G: 99}
+365: !!python/object/apply:collections.Counter
+- {A: 99}
+366: !!python/object/apply:collections.Counter
+- {G: 99}
+367: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+368: !!python/object/apply:collections.Counter
+- {C: 99}
+369: !!python/object/apply:collections.Counter
+- {C: 99}
+370: !!python/object/apply:collections.Counter
+- {G: 99}
+371: !!python/object/apply:collections.Counter
+- {G: 99}
+372: !!python/object/apply:collections.Counter
+- {G: 99}
+373: !!python/object/apply:collections.Counter
+- {T: 99}
+374: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+375: !!python/object/apply:collections.Counter
+- {T: 99}
+376: !!python/object/apply:collections.Counter
+- {C: 99}
+377: !!python/object/apply:collections.Counter
+- {A: 99}
+378: !!python/object/apply:collections.Counter
+- {C: 99}
+379: !!python/object/apply:collections.Counter
+- {A: 99}
+380: !!python/object/apply:collections.Counter
+- {A: 13, C: 86}
+381: !!python/object/apply:collections.Counter
+- {C: 77, T: 22}
+382: !!python/object/apply:collections.Counter
+- {A: 25, C: 48, G: 2, T: 24}
+383: !!python/object/apply:collections.Counter
+- {A: 4, T: 95}
+384: !!python/object/apply:collections.Counter
+- {C: 95, T: 4}
+385: !!python/object/apply:collections.Counter
+- {C: 99}
+386: !!python/object/apply:collections.Counter
+- {A: 99}
+387: !!python/object/apply:collections.Counter
+- {A: 3, G: 96}
+388: !!python/object/apply:collections.Counter
+- {A: 1, C: 28, G: 30, T: 40}
+389: !!python/object/apply:collections.Counter
+- {A: 24, C: 13, G: 44, T: 18}
+390: !!python/object/apply:collections.Counter
+- {C: 2, G: 97}
+391: !!python/object/apply:collections.Counter
+- {A: 99}
+392: !!python/object/apply:collections.Counter
+- {T: 99}
+393: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+394: !!python/object/apply:collections.Counter
+- {C: 1, T: 98}
+395: !!python/object/apply:collections.Counter
+- {A: 69, C: 20, G: 2, T: 8}
+396: !!python/object/apply:collections.Counter
+- {C: 93, T: 6}
+397: !!python/object/apply:collections.Counter
+- {G: 99}
+398: !!python/object/apply:collections.Counter
+- {G: 99}
+399: !!python/object/apply:collections.Counter
+- {C: 97, T: 2}
+400: !!python/object/apply:collections.Counter
+- {T: 99}
+401: !!python/object/apply:collections.Counter
+- {G: 99}
+402: !!python/object/apply:collections.Counter
+- {C: 99}
+403: !!python/object/apply:collections.Counter
+- {G: 76, T: 23}
+404: !!python/object/apply:collections.Counter
+- {A: 99}
+405: !!python/object/apply:collections.Counter
+- {C: 99}
+406: !!python/object/apply:collections.Counter
+- {G: 99}
+407: !!python/object/apply:collections.Counter
+- {T: 99}
+408: !!python/object/apply:collections.Counter
+- {G: 99}
+409: !!python/object/apply:collections.Counter
+- {G: 99}
+410: !!python/object/apply:collections.Counter
+- {G: 99}
+411: !!python/object/apply:collections.Counter
+- {G: 99}
+412: !!python/object/apply:collections.Counter
+- {C: 93, T: 6}
+413: !!python/object/apply:collections.Counter
+- {C: 99}
+414: !!python/object/apply:collections.Counter
+- {G: 99}
+415: !!python/object/apply:collections.Counter
+- {G: 99}
+416: !!python/object/apply:collections.Counter
+- {A: 97, G: 2}
+417: !!python/object/apply:collections.Counter
+- {C: 88, T: 11}
+418: !!python/object/apply:collections.Counter
+- {G: 99}
+419: !!python/object/apply:collections.Counter
+- {G: 99}
+420: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+421: !!python/object/apply:collections.Counter
+- {A: 5, C: 93, G: 1}
+422: !!python/object/apply:collections.Counter
+- {'-': 1, C: 1, G: 97}
+423: !!python/object/apply:collections.Counter
+- {'-': 1, C: 39, T: 59}
+424: !!python/object/apply:collections.Counter
+- {'-': 1, C: 74, T: 24}
+425: !!python/object/apply:collections.Counter
+- {C: 1, T: 98}
+426: !!python/object/apply:collections.Counter
+- {C: 94, T: 5}
+427: !!python/object/apply:collections.Counter
+- {C: 99}
+428: !!python/object/apply:collections.Counter
+- {C: 1, G: 27, T: 71}
+429: !!python/object/apply:collections.Counter
+- {C: 98, G: 1}
+430: !!python/object/apply:collections.Counter
+- {A: 3, C: 88, G: 8}
+431: !!python/object/apply:collections.Counter
+- {G: 96, T: 3}
+432: !!python/object/apply:collections.Counter
+- {C: 99}
+433: !!python/object/apply:collections.Counter
+- {G: 99}
+434: !!python/object/apply:collections.Counter
+- {G: 99}
+435: !!python/object/apply:collections.Counter
+- {A: 1, C: 1, G: 94, T: 3}
+436: !!python/object/apply:collections.Counter
+- {T: 99}
+437: !!python/object/apply:collections.Counter
+- {A: 44, T: 55}
+438: !!python/object/apply:collections.Counter
+- {C: 74, T: 25}
+439: !!python/object/apply:collections.Counter
+- {A: 70, G: 20, T: 9}
+440: !!python/object/apply:collections.Counter
+- {A: 21, C: 13, G: 33, T: 32}
+441: !!python/object/apply:collections.Counter
+- {G: 90, T: 9}
+442: !!python/object/apply:collections.Counter
+- {C: 99}
+443: !!python/object/apply:collections.Counter
+- {A: 99}
+444: !!python/object/apply:collections.Counter
+- {G: 99}
+445: !!python/object/apply:collections.Counter
+- {G: 29, T: 70}
+446: !!python/object/apply:collections.Counter
+- {A: 64, T: 35}
+447: !!python/object/apply:collections.Counter
+- {C: 99}
+448: !!python/object/apply:collections.Counter
+- {G: 99}
+449: !!python/object/apply:collections.Counter
+- {C: 39, G: 60}
+450: !!python/object/apply:collections.Counter
+- {C: 96, T: 3}
+451: !!python/object/apply:collections.Counter
+- {T: 99}
+452: !!python/object/apply:collections.Counter
+- {A: 99}
+453: !!python/object/apply:collections.Counter
+- {C: 99}
+454: !!python/object/apply:collections.Counter
+- {G: 99}
+455: !!python/object/apply:collections.Counter
+- {A: 99}
+456: !!python/object/apply:collections.Counter
+- {A: 9, C: 90}
+457: !!python/object/apply:collections.Counter
+- {A: 4, G: 95}
+458: !!python/object/apply:collections.Counter
+- {G: 99}
+459: !!python/object/apply:collections.Counter
+- {C: 93, G: 1, T: 5}
+460: !!python/object/apply:collections.Counter
+- {A: 99}
+461: !!python/object/apply:collections.Counter
+- {G: 99}
+462: !!python/object/apply:collections.Counter
+- {A: 99}
+463: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+464: !!python/object/apply:collections.Counter
+- {A: 99}
+465: !!python/object/apply:collections.Counter
+- {T: 99}
+466: !!python/object/apply:collections.Counter
+- {T: 99}
+467: !!python/object/apply:collections.Counter
+- {A: 99}
+468: !!python/object/apply:collections.Counter
+- {C: 99}
+469: !!python/object/apply:collections.Counter
+- {A: 63, C: 36}
+470: !!python/object/apply:collections.Counter
+- {T: 99}
+471: !!python/object/apply:collections.Counter
+- {C: 99}
+472: !!python/object/apply:collections.Counter
+- {G: 99}
+473: !!python/object/apply:collections.Counter
+- {C: 99}
+474: !!python/object/apply:collections.Counter
+- {C: 99}
+475: !!python/object/apply:collections.Counter
+- {C: 99}
+476: !!python/object/apply:collections.Counter
+- {T: 99}
+477: !!python/object/apply:collections.Counter
+- {G: 99}
+478: !!python/object/apply:collections.Counter
+- {A: 99}
+479: !!python/object/apply:collections.Counter
+- {A: 99}
+480: !!python/object/apply:collections.Counter
+- {C: 99}
+481: !!python/object/apply:collections.Counter
+- {C: 5, G: 94}
+482: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+483: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+484: !!python/object/apply:collections.Counter
+- {G: 99}
+485: !!python/object/apply:collections.Counter
+- {A: 99}
+486: !!python/object/apply:collections.Counter
+- {A: 2, C: 93, G: 4}
+487: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+488: !!python/object/apply:collections.Counter
+- {T: 99}
+489: !!python/object/apply:collections.Counter
+- {G: 99}
+490: !!python/object/apply:collections.Counter
+- {C: 99}
+491: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+492: !!python/object/apply:collections.Counter
+- {C: 99}
+493: !!python/object/apply:collections.Counter
+- {T: 99}
+494: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+495: !!python/object/apply:collections.Counter
+- {C: 99}
+496: !!python/object/apply:collections.Counter
+- {T: 99}
+497: !!python/object/apply:collections.Counter
+- {G: 99}
+498: !!python/object/apply:collections.Counter
+- {G: 99}
+499: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+500: !!python/object/apply:collections.Counter
+- {C: 99}
+501: !!python/object/apply:collections.Counter
+- {C: 99}
+502: !!python/object/apply:collections.Counter
+- {G: 99}
+503: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+504: !!python/object/apply:collections.Counter
+- {G: 99}
+505: !!python/object/apply:collections.Counter
+- {G: 99}
+506: !!python/object/apply:collections.Counter
+- {C: 78, G: 11, T: 10}
+507: !!python/object/apply:collections.Counter
+- {G: 99}
+508: !!python/object/apply:collections.Counter
+- {G: 99}
+509: !!python/object/apply:collections.Counter
+- {A: 99}
+510: !!python/object/apply:collections.Counter
+- {C: 79, G: 20}
+511: !!python/object/apply:collections.Counter
+- {A: 99}
+512: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+513: !!python/object/apply:collections.Counter
+- {G: 99}
+514: !!python/object/apply:collections.Counter
+- {A: 4, G: 95}
+515: !!python/object/apply:collections.Counter
+- {A: 14, C: 77, T: 8}
+516: !!python/object/apply:collections.Counter
+- {G: 99}
+517: !!python/object/apply:collections.Counter
+- {G: 99}
+518: !!python/object/apply:collections.Counter
+- {C: 99}
+519: !!python/object/apply:collections.Counter
+- {T: 99}
+520: !!python/object/apply:collections.Counter
+- {C: 99}
+521: !!python/object/apply:collections.Counter
+- {A: 99}
+522: !!python/object/apply:collections.Counter
+- {C: 1, G: 98}
+523: !!python/object/apply:collections.Counter
+- {A: 99}
+524: !!python/object/apply:collections.Counter
+- {T: 99}
+525: !!python/object/apply:collections.Counter
+- {C: 99}
+526: !!python/object/apply:collections.Counter
+- {A: 77, T: 22}
+527: !!python/object/apply:collections.Counter
+- {C: 98, G: 1}
+528: !!python/object/apply:collections.Counter
+- {C: 99}
+529: !!python/object/apply:collections.Counter
+- {A: 99}
+530: !!python/object/apply:collections.Counter
+- {A: 99}
+531: !!python/object/apply:collections.Counter
+- {A: 21, G: 78}
+532: !!python/object/apply:collections.Counter
+- {C: 99}
+533: !!python/object/apply:collections.Counter
+- {G: 99}
+534: !!python/object/apply:collections.Counter
+- {C: 99}
+535: !!python/object/apply:collections.Counter
+- {A: 99}
+536: !!python/object/apply:collections.Counter
+- {A: 99}
+537: !!python/object/apply:collections.Counter
+- {G: 99}
+538: !!python/object/apply:collections.Counter
+- {A: 16, C: 5, G: 3, T: 75}
+539: !!python/object/apply:collections.Counter
+- {G: 80, T: 19}
+540: !!python/object/apply:collections.Counter
+- {G: 99}
+541: !!python/object/apply:collections.Counter
+- {G: 99}
+542: !!python/object/apply:collections.Counter
+- {A: 99}
+543: !!python/object/apply:collections.Counter
+- {G: 99}
+544: !!python/object/apply:collections.Counter
+- {G: 99}
+545: !!python/object/apply:collections.Counter
+- {A: 3, C: 96}
+546: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+547: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+548: !!python/object/apply:collections.Counter
+- {A: 11, C: 88}
+549: !!python/object/apply:collections.Counter
+- {A: 83, C: 15, G: 1}
+550: !!python/object/apply:collections.Counter
+- {G: 99}
+551: !!python/object/apply:collections.Counter
+- {A: 20, G: 79}
+552: !!python/object/apply:collections.Counter
+- {T: 99}
+553: !!python/object/apply:collections.Counter
+- {A: 10, G: 64, T: 25}
+554: !!python/object/apply:collections.Counter
+- {A: 63, C: 23, T: 13}
+555: !!python/object/apply:collections.Counter
+- {A: 10, C: 1, G: 16, T: 72}
+556: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+557: !!python/object/apply:collections.Counter
+- {A: 4, C: 95}
+558: !!python/object/apply:collections.Counter
+- {G: 65, T: 34}
+559: !!python/object/apply:collections.Counter
+- {G: 99}
+560: !!python/object/apply:collections.Counter
+- {A: 99}
+561: !!python/object/apply:collections.Counter
+- {C: 1, G: 98}
+562: !!python/object/apply:collections.Counter
+- {A: 54, G: 26, T: 19}
+563: !!python/object/apply:collections.Counter
+- {A: 6, C: 22, G: 59, T: 12}
+564: !!python/object/apply:collections.Counter
+- {A: 61, C: 15, T: 23}
+565: !!python/object/apply:collections.Counter
+- {C: 40, G: 15, T: 44}
+566: !!python/object/apply:collections.Counter
+- {A: 52, G: 8, T: 39}
+567: !!python/object/apply:collections.Counter
+- {A: 1, C: 29, G: 69}
+568: !!python/object/apply:collections.Counter
+- {A: 99}
+569: !!python/object/apply:collections.Counter
+- {C: 1, G: 98}
+570: !!python/object/apply:collections.Counter
+- {G: 99}
+571: !!python/object/apply:collections.Counter
+- {A: 99}
+572: !!python/object/apply:collections.Counter
+- {A: 99}
+573: !!python/object/apply:collections.Counter
+- {C: 98, G: 1}
+574: !!python/object/apply:collections.Counter
+- {T: 99}
+575: !!python/object/apply:collections.Counter
+- {A: 99}
+576: !!python/object/apply:collections.Counter
+- {C: 99}
+577: !!python/object/apply:collections.Counter
+- {C: 85, G: 14}
+578: !!python/object/apply:collections.Counter
+- {T: 99}
+579: !!python/object/apply:collections.Counter
+- {C: 5, G: 93, T: 1}
+580: !!python/object/apply:collections.Counter
+- {G: 99}
+581: !!python/object/apply:collections.Counter
+- {A: 99}
+582: !!python/object/apply:collections.Counter
+- {G: 99}
+583: !!python/object/apply:collections.Counter
+- {G: 99}
+584: !!python/object/apply:collections.Counter
+- {G: 99}
+585: !!python/object/apply:collections.Counter
+- {C: 99}
+586: !!python/object/apply:collections.Counter
+- {A: 23, C: 53, G: 23}
+587: !!python/object/apply:collections.Counter
+- {A: 23, C: 23, G: 49, T: 4}
+588: !!python/object/apply:collections.Counter
+- {A: 7, G: 92}
+589: !!python/object/apply:collections.Counter
+- {T: 99}
+590: !!python/object/apply:collections.Counter
+- {G: 99}
+591: !!python/object/apply:collections.Counter
+- {C: 99}
+592: !!python/object/apply:collections.Counter
+- {G: 99}
+593: !!python/object/apply:collections.Counter
+- {T: 99}
+594: !!python/object/apply:collections.Counter
+- {G: 99}
+595: !!python/object/apply:collections.Counter
+- {G: 99}
+596: !!python/object/apply:collections.Counter
+- {A: 99}
+597: !!python/object/apply:collections.Counter
+- {G: 99}
+598: !!python/object/apply:collections.Counter
+- {G: 34, T: 65}
+599: !!python/object/apply:collections.Counter
+- {C: 1, G: 98}
+600: !!python/object/apply:collections.Counter
+- {G: 99}
+601: !!python/object/apply:collections.Counter
+- {C: 99}
+602: !!python/object/apply:collections.Counter
+- {T: 99}
+603: !!python/object/apply:collections.Counter
+- {C: 99}
+604: !!python/object/apply:collections.Counter
+- {C: 99}
+605: !!python/object/apply:collections.Counter
+- {C: 3, G: 96}
+606: !!python/object/apply:collections.Counter
+- {C: 99}
+607: !!python/object/apply:collections.Counter
+- {A: 99}
+608: !!python/object/apply:collections.Counter
+- {G: 99}
+609: !!python/object/apply:collections.Counter
+- {A: 99}
+610: !!python/object/apply:collections.Counter
+- {C: 6, T: 93}
+611: !!python/object/apply:collections.Counter
+- {A: 99}
+612: !!python/object/apply:collections.Counter
+- {C: 99}
+613: !!python/object/apply:collections.Counter
+- {C: 99}
+614: !!python/object/apply:collections.Counter
+- {T: 99}
+615: !!python/object/apply:collections.Counter
+- {G: 99}
+616: !!python/object/apply:collections.Counter
+- {G: 99}
+617: !!python/object/apply:collections.Counter
+- {A: 99}
+618: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+619: !!python/object/apply:collections.Counter
+- {A: 99}
+620: !!python/object/apply:collections.Counter
+- {A: 98, C: 1}
+621: !!python/object/apply:collections.Counter
+- {C: 94, T: 5}
+622: !!python/object/apply:collections.Counter
+- {G: 99}
+623: !!python/object/apply:collections.Counter
+- {G: 99}
+624: !!python/object/apply:collections.Counter
+- {G: 99}
+625: !!python/object/apply:collections.Counter
+- {A: 99}
+626: !!python/object/apply:collections.Counter
+- {A: 99}
+627: !!python/object/apply:collections.Counter
+- {G: 99}
+628: !!python/object/apply:collections.Counter
+- {G: 99}
+629: !!python/object/apply:collections.Counter
+- {A: 99}
+630: !!python/object/apply:collections.Counter
+- {C: 99}
+631: !!python/object/apply:collections.Counter
+- {A: 67, G: 32}
+632: !!python/object/apply:collections.Counter
+- {C: 99}
+633: !!python/object/apply:collections.Counter
+- {A: 2, G: 97}
+634: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+635: !!python/object/apply:collections.Counter
+- {T: 99}
+636: !!python/object/apply:collections.Counter
+- {G: 99}
+637: !!python/object/apply:collections.Counter
+- {C: 99}
+638: !!python/object/apply:collections.Counter
+- {T: 99}
+639: !!python/object/apply:collections.Counter
+- {G: 99}
+640: !!python/object/apply:collections.Counter
+- {C: 99}
+641: !!python/object/apply:collections.Counter
+- {G: 99}
+642: !!python/object/apply:collections.Counter
+- {C: 99}
+643: !!python/object/apply:collections.Counter
+- {G: 99}
+644: !!python/object/apply:collections.Counter
+- {C: 99}
+645: !!python/object/apply:collections.Counter
+- {A: 99}
+646: !!python/object/apply:collections.Counter
+- {G: 99}
+647: !!python/object/apply:collections.Counter
+- {A: 99}
+648: !!python/object/apply:collections.Counter
+- {C: 99}
+649: !!python/object/apply:collections.Counter
+- {C: 99}
+650: !!python/object/apply:collections.Counter
+- {C: 99}
+651: !!python/object/apply:collections.Counter
+- {T: 99}
+652: !!python/object/apply:collections.Counter
+- {C: 99}
+653: !!python/object/apply:collections.Counter
+- {C: 99}
+654: !!python/object/apply:collections.Counter
+- {A: 99}
+655: !!python/object/apply:collections.Counter
+- {A: 99}
+656: !!python/object/apply:collections.Counter
+- {A: 95, T: 4}
+657: !!python/object/apply:collections.Counter
+- {G: 99}
+658: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+659: !!python/object/apply:collections.Counter
+- {C: 99}
+660: !!python/object/apply:collections.Counter
+- {A: 99}
+661: !!python/object/apply:collections.Counter
+- {C: 99}
+662: !!python/object/apply:collections.Counter
+- {A: 99}
+663: !!python/object/apply:collections.Counter
+- {C: 1, T: 98}
+664: !!python/object/apply:collections.Counter
+- {G: 99}
+665: !!python/object/apply:collections.Counter
+- {T: 99}
+666: !!python/object/apply:collections.Counter
+- {G: 99}
+667: !!python/object/apply:collections.Counter
+- {A: 95, G: 4}
+668: !!python/object/apply:collections.Counter
+- {C: 99}
+669: !!python/object/apply:collections.Counter
+- {C: 90, G: 6, T: 3}
+670: !!python/object/apply:collections.Counter
+- {C: 99}
+671: !!python/object/apply:collections.Counter
+- {A: 85, G: 14}
+672: !!python/object/apply:collections.Counter
+- {A: 6, T: 93}
+673: !!python/object/apply:collections.Counter
+- {C: 99}
+674: !!python/object/apply:collections.Counter
+- {A: 99}
+675: !!python/object/apply:collections.Counter
+- {C: 99}
+676: !!python/object/apply:collections.Counter
+- {C: 90, T: 9}
+677: !!python/object/apply:collections.Counter
+- {C: 99}
+678: !!python/object/apply:collections.Counter
+- {C: 93, G: 6}
+679: !!python/object/apply:collections.Counter
+- {A: 96, G: 3}
+680: !!python/object/apply:collections.Counter
+- {G: 12, T: 87}
+681: !!python/object/apply:collections.Counter
+- {C: 99}
+682: !!python/object/apply:collections.Counter
+- {T: 99}
+683: !!python/object/apply:collections.Counter
+- {C: 99}
+684: !!python/object/apply:collections.Counter
+- {T: 99}
+685: !!python/object/apply:collections.Counter
+- {C: 4, G: 95}
+686: !!python/object/apply:collections.Counter
+- {A: 78, G: 21}
+687: !!python/object/apply:collections.Counter
+- {C: 40, G: 38, T: 21}
+688: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+689: !!python/object/apply:collections.Counter
+- {A: 13, G: 86}
+690: !!python/object/apply:collections.Counter
+- {T: 99}
+691: !!python/object/apply:collections.Counter
+- {G: 99}
+692: !!python/object/apply:collections.Counter
+- {A: 99}
+693: !!python/object/apply:collections.Counter
+- {G: 99}
+694: !!python/object/apply:collections.Counter
+- {G: 99}
+695: !!python/object/apply:collections.Counter
+- {T: 99}
+696: !!python/object/apply:collections.Counter
+- {C: 99}
+697: !!python/object/apply:collections.Counter
+- {A: 99}
+698: !!python/object/apply:collections.Counter
+- {C: 99}
+699: !!python/object/apply:collections.Counter
+- {C: 99}
+700: !!python/object/apply:collections.Counter
+- {C: 99}
+701: !!python/object/apply:collections.Counter
+- {T: 99}
+702: !!python/object/apply:collections.Counter
+- {G: 99}
+703: !!python/object/apply:collections.Counter
+- {A: 99}
+704: !!python/object/apply:collections.Counter
+- {G: 99}
+705: !!python/object/apply:collections.Counter
+- {G: 99}
+706: !!python/object/apply:collections.Counter
+- {T: 99}
+707: !!python/object/apply:collections.Counter
+- {G: 99}
+708: !!python/object/apply:collections.Counter
+- {C: 99}
+709: !!python/object/apply:collections.Counter
+- {T: 99}
+710: !!python/object/apply:collections.Counter
+- {G: 99}
+711: !!python/object/apply:collections.Counter
+- {G: 99}
+712: !!python/object/apply:collections.Counter
+- {G: 99}
+713: !!python/object/apply:collections.Counter
+- {C: 99}
+714: !!python/object/apply:collections.Counter
+- {C: 98, G: 1}
+715: !!python/object/apply:collections.Counter
+- {C: 99}
+716: !!python/object/apply:collections.Counter
+- {T: 99}
+717: !!python/object/apply:collections.Counter
+- {G: 99}
+718: !!python/object/apply:collections.Counter
+- {G: 99}
+719: !!python/object/apply:collections.Counter
+- {G: 99}
+720: !!python/object/apply:collections.Counter
+- {C: 99}
+721: !!python/object/apply:collections.Counter
+- {T: 99}
+722: !!python/object/apply:collections.Counter
+- {T: 99}
+723: !!python/object/apply:collections.Counter
+- {C: 99}
+724: !!python/object/apply:collections.Counter
+- {T: 99}
+725: !!python/object/apply:collections.Counter
+- {A: 99}
+726: !!python/object/apply:collections.Counter
+- {C: 99}
+727: !!python/object/apply:collections.Counter
+- {C: 99}
+728: !!python/object/apply:collections.Counter
+- {C: 99}
+729: !!python/object/apply:collections.Counter
+- {T: 99}
+730: !!python/object/apply:collections.Counter
+- {A: 12, G: 87}
+731: !!python/object/apply:collections.Counter
+- {A: 99}
+732: !!python/object/apply:collections.Counter
+- {A: 13, G: 86}
+733: !!python/object/apply:collections.Counter
+- {G: 99}
+734: !!python/object/apply:collections.Counter
+- {A: 99}
+735: !!python/object/apply:collections.Counter
+- {C: 7, G: 92}
+736: !!python/object/apply:collections.Counter
+- {A: 99}
+737: !!python/object/apply:collections.Counter
+- {T: 99}
+738: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+739: !!python/object/apply:collections.Counter
+- {T: 99}
+740: !!python/object/apply:collections.Counter
+- {C: 99}
+741: !!python/object/apply:collections.Counter
+- {A: 99}
+742: !!python/object/apply:collections.Counter
+- {C: 99}
+743: !!python/object/apply:collections.Counter
+- {T: 99}
+744: !!python/object/apply:collections.Counter
+- {G: 99}
+745: !!python/object/apply:collections.Counter
+- {A: 99}
+746: !!python/object/apply:collections.Counter
+- {C: 99}
+747: !!python/object/apply:collections.Counter
+- {C: 97, G: 2}
+748: !!python/object/apply:collections.Counter
+- {T: 99}
+749: !!python/object/apply:collections.Counter
+- {G: 99}
+750: !!python/object/apply:collections.Counter
+- {G: 99}
+751: !!python/object/apply:collections.Counter
+- {C: 99}
+752: !!python/object/apply:collections.Counter
+- {A: 99}
+753: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+754: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+755: !!python/object/apply:collections.Counter
+- {A: 13, G: 86}
+756: !!python/object/apply:collections.Counter
+- {C: 90, T: 9}
+757: !!python/object/apply:collections.Counter
+- {A: 63, G: 36}
+758: !!python/object/apply:collections.Counter
+- {A: 96, G: 3}
+759: !!python/object/apply:collections.Counter
+- {A: 2, C: 2, G: 28, T: 67}
+760: !!python/object/apply:collections.Counter
+- {G: 99}
+761: !!python/object/apply:collections.Counter
+- {G: 99}
+762: !!python/object/apply:collections.Counter
+- {A: 24, G: 75}
+763: !!python/object/apply:collections.Counter
+- {G: 99}
+764: !!python/object/apply:collections.Counter
+- {A: 99}
+765: !!python/object/apply:collections.Counter
+- {G: 99}
+766: !!python/object/apply:collections.Counter
+- {G: 99}
+767: !!python/object/apply:collections.Counter
+- {A: 99}
+768: !!python/object/apply:collections.Counter
+- {C: 99}
+769: !!python/object/apply:collections.Counter
+- {C: 99}
+770: !!python/object/apply:collections.Counter
+- {A: 97, T: 2}
+771: !!python/object/apply:collections.Counter
+- {G: 99}
+772: !!python/object/apply:collections.Counter
+- {A: 99}
+773: !!python/object/apply:collections.Counter
+- {C: 91, T: 8}
+774: !!python/object/apply:collections.Counter
+- {C: 89, G: 9, T: 1}
+775: !!python/object/apply:collections.Counter
+- {C: 99}
+776: !!python/object/apply:collections.Counter
+- {A: 99}
+777: !!python/object/apply:collections.Counter
+- {G: 99}
+778: !!python/object/apply:collections.Counter
+- {G: 97, T: 2}
+779: !!python/object/apply:collections.Counter
+- {A: 99}
+780: !!python/object/apply:collections.Counter
+- {A: 2, C: 97}
+781: !!python/object/apply:collections.Counter
+- {A: 99}
+782: !!python/object/apply:collections.Counter
+- {T: 99}
+783: !!python/object/apply:collections.Counter
+- {G: 99}
+784: !!python/object/apply:collections.Counter
+- {G: 99}
+785: !!python/object/apply:collections.Counter
+- {A: 99}
+786: !!python/object/apply:collections.Counter
+- {G: 99}
+787: !!python/object/apply:collections.Counter
+- {C: 98, T: 1}
+788: !!python/object/apply:collections.Counter
+- {T: 99}
+789: !!python/object/apply:collections.Counter
+- {T: 99}
+790: !!python/object/apply:collections.Counter
+- {G: 99}
+791: !!python/object/apply:collections.Counter
+- {T: 99}
+792: !!python/object/apply:collections.Counter
+- {G: 99}
+793: !!python/object/apply:collections.Counter
+- {G: 99}
+794: !!python/object/apply:collections.Counter
+- {A: 99}
+795: !!python/object/apply:collections.Counter
+- {G: 99}
+796: !!python/object/apply:collections.Counter
+- {A: 99}
+797: !!python/object/apply:collections.Counter
+- {C: 99}
+798: !!python/object/apply:collections.Counter
+- {C: 99}
+799: !!python/object/apply:collections.Counter
+- {A: 99}
+800: !!python/object/apply:collections.Counter
+- {G: 94, T: 5}
+801: !!python/object/apply:collections.Counter
+- {G: 99}
+802: !!python/object/apply:collections.Counter
+- {C: 99}
+803: !!python/object/apply:collections.Counter
+- {C: 99}
+804: !!python/object/apply:collections.Counter
+- {T: 99}
+805: !!python/object/apply:collections.Counter
+- {T: 99}
+806: !!python/object/apply:collections.Counter
+- {C: 99}
+807: !!python/object/apply:collections.Counter
+- {A: 99}
+808: !!python/object/apply:collections.Counter
+- {G: 99}
+809: !!python/object/apply:collections.Counter
+- {G: 99}
+810: !!python/object/apply:collections.Counter
+- {G: 99}
+811: !!python/object/apply:collections.Counter
+- {G: 99}
+812: !!python/object/apply:collections.Counter
+- {A: 99}
+813: !!python/object/apply:collections.Counter
+- {C: 51, T: 48}
+814: !!python/object/apply:collections.Counter
+- {G: 99}
+815: !!python/object/apply:collections.Counter
+- {G: 99}
+816: !!python/object/apply:collections.Counter
+- {A: 99}
+817: !!python/object/apply:collections.Counter
+- {A: 99}
+818: !!python/object/apply:collections.Counter
+- {A: 52, C: 45, G: 1, N: 1}
+819: !!python/object/apply:collections.Counter
+- {C: 99}
+820: !!python/object/apply:collections.Counter
+- {T: 99}
+821: !!python/object/apply:collections.Counter
+- {T: 99}
+822: !!python/object/apply:collections.Counter
+- {C: 99}
+823: !!python/object/apply:collections.Counter
+- {C: 99}
+824: !!python/object/apply:collections.Counter
+- {A: 99}
+825: !!python/object/apply:collections.Counter
+- {G: 99}
+826: !!python/object/apply:collections.Counter
+- {A: 99}
+827: !!python/object/apply:collections.Counter
+- {A: 99}
+828: !!python/object/apply:collections.Counter
+- {G: 99}
+829: !!python/object/apply:collections.Counter
+- {T: 99}
+830: !!python/object/apply:collections.Counter
+- {G: 99}
+831: !!python/object/apply:collections.Counter
+- {G: 99}
+832: !!python/object/apply:collections.Counter
+- {G: 99}
+833: !!python/object/apply:collections.Counter
+- {C: 91, T: 8}
+834: !!python/object/apply:collections.Counter
+- {A: 47, G: 52}
+835: !!python/object/apply:collections.Counter
+- {G: 99}
+836: !!python/object/apply:collections.Counter
+- {C: 99}
+837: !!python/object/apply:collections.Counter
+- {C: 99}
+838: !!python/object/apply:collections.Counter
+- {C: 99}
+839: !!python/object/apply:collections.Counter
+- {T: 99}
+840: !!python/object/apply:collections.Counter
+- {G: 99}
+841: !!python/object/apply:collections.Counter
+- {G: 91, T: 8}
+842: !!python/object/apply:collections.Counter
+- {C: 2, G: 1, T: 96}
+843: !!python/object/apply:collections.Counter
+- {G: 96, T: 3}
+844: !!python/object/apply:collections.Counter
+- {G: 99}
+845: !!python/object/apply:collections.Counter
+- {T: 99}
+846: !!python/object/apply:collections.Counter
+- {A: 3, G: 96}
+847: !!python/object/apply:collections.Counter
+- {C: 99}
+848: !!python/object/apply:collections.Counter
+- {C: 99}
+849: !!python/object/apply:collections.Counter
+- {C: 1, T: 98}
+850: !!python/object/apply:collections.Counter
+- {C: 2, T: 97}
+851: !!python/object/apply:collections.Counter
+- {C: 99}
+852: !!python/object/apply:collections.Counter
+- {T: 99}
+853: !!python/object/apply:collections.Counter
+- {G: 99}
+854: !!python/object/apply:collections.Counter
+- {G: 99}
+855: !!python/object/apply:collections.Counter
+- {A: 99}
+856: !!python/object/apply:collections.Counter
+- {G: 99}
+857: !!python/object/apply:collections.Counter
+- {A: 99}
+858: !!python/object/apply:collections.Counter
+- {A: 1, C: 3, G: 95}
+859: !!python/object/apply:collections.Counter
+- {G: 99}
+860: !!python/object/apply:collections.Counter
+- {A: 99}
+861: !!python/object/apply:collections.Counter
+- {A: 12, G: 87}
+862: !!python/object/apply:collections.Counter
+- {C: 99}
+863: !!python/object/apply:collections.Counter
+- {A: 99}
+864: !!python/object/apply:collections.Counter
+- {G: 99}
+865: !!python/object/apply:collections.Counter
+- {A: 99}
+866: !!python/object/apply:collections.Counter
+- {A: 30, G: 69}
+867: !!python/object/apply:collections.Counter
+- {A: 99}
+868: !!python/object/apply:collections.Counter
+- {T: 99}
+869: !!python/object/apply:collections.Counter
+- {A: 99}
+870: !!python/object/apply:collections.Counter
+- {C: 99}
+871: !!python/object/apply:collections.Counter
+- {A: 99}
+872: !!python/object/apply:collections.Counter
+- {C: 94, G: 1, T: 4}
+873: !!python/object/apply:collections.Counter
+- {A: 28, G: 71}
+874: !!python/object/apply:collections.Counter
+- {T: 99}
+875: !!python/object/apply:collections.Counter
+- {G: 99}
+876: !!python/object/apply:collections.Counter
+- {C: 99}
+877: !!python/object/apply:collections.Counter
+- {A: 3, C: 96}
+878: !!python/object/apply:collections.Counter
+- {A: 22, G: 77}
+879: !!python/object/apply:collections.Counter
+- {A: 29, T: 70}
+880: !!python/object/apply:collections.Counter
+- {G: 99}
+881: !!python/object/apply:collections.Counter
+- {T: 99}
+882: !!python/object/apply:collections.Counter
+- {G: 99}
+883: !!python/object/apply:collections.Counter
+- {C: 99}
+884: !!python/object/apply:collections.Counter
+- {A: 99}
+885: !!python/object/apply:collections.Counter
+- {G: 99}
+886: !!python/object/apply:collections.Counter
+- {C: 99}
+887: !!python/object/apply:collections.Counter
+- {A: 99}
+888: !!python/object/apply:collections.Counter
+- {C: 66, T: 33}
+889: !!python/object/apply:collections.Counter
+- {A: 4, G: 95}
+890: !!python/object/apply:collections.Counter
+- {A: 99}
+891: !!python/object/apply:collections.Counter
+- {A: 18, G: 81}
+892: !!python/object/apply:collections.Counter
+- {G: 99}
+893: !!python/object/apply:collections.Counter
+- {G: 99}
+894: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+895: !!python/object/apply:collections.Counter
+- {C: 99}
+896: !!python/object/apply:collections.Counter
+- {T: 99}
+897: !!python/object/apply:collections.Counter
+- {T: 99}
+898: !!python/object/apply:collections.Counter
+- {C: 99}
+899: !!python/object/apply:collections.Counter
+- {A: 94, C: 1, G: 4}
+900: !!python/object/apply:collections.Counter
+- {G: 99}
+901: !!python/object/apply:collections.Counter
+- {G: 99}
+902: !!python/object/apply:collections.Counter
+- {A: 99}
+903: !!python/object/apply:collections.Counter
+- {G: 99}
+904: !!python/object/apply:collections.Counter
+- {C: 99}
+905: !!python/object/apply:collections.Counter
+- {C: 99}
+906: !!python/object/apply:collections.Counter
+- {C: 99}
+907: !!python/object/apply:collections.Counter
+- {C: 99}
+908: !!python/object/apply:collections.Counter
+- {T: 99}
+909: !!python/object/apply:collections.Counter
+- {A: 1, C: 98}
+910: !!python/object/apply:collections.Counter
+- {A: 99}
+911: !!python/object/apply:collections.Counter
+- {C: 96, T: 3}
+912: !!python/object/apply:collections.Counter
+- {C: 99}
+913: !!python/object/apply:collections.Counter
+- {C: 99}
+914: !!python/object/apply:collections.Counter
+- {T: 99}
+915: !!python/object/apply:collections.Counter
+- {G: 99}
+916: !!python/object/apply:collections.Counter
+- {A: 99}
+917: !!python/object/apply:collections.Counter
+- {A: 28, G: 71}
+918: !!python/object/apply:collections.Counter
+- {A: 99}
+919: !!python/object/apply:collections.Counter
+- {T: 99}
+920: !!python/object/apply:collections.Counter
+- {G: 99}
+921: !!python/object/apply:collections.Counter
+- {G: 99}
+922: !!python/object/apply:collections.Counter
+- {G: 99}
+923: !!python/object/apply:collections.Counter
+- {A: 99}
+924: !!python/object/apply:collections.Counter
+- {A: 99}
+925: !!python/object/apply:collections.Counter
+- {C: 99}
+926: !!python/object/apply:collections.Counter
+- {C: 99}
+927: !!python/object/apply:collections.Counter
+- {T: 99}
+928: !!python/object/apply:collections.Counter
+- {C: 99}
+929: !!python/object/apply:collections.Counter
+- {C: 99}
+930: !!python/object/apply:collections.Counter
+- {T: 99}
+931: !!python/object/apply:collections.Counter
+- {C: 99}
+932: !!python/object/apply:collections.Counter
+- {A: 99}
+933: !!python/object/apply:collections.Counter
+- {G: 99}
+934: !!python/object/apply:collections.Counter
+- {A: 67, C: 32}
+935: !!python/object/apply:collections.Counter
+- {C: 99}
+936: !!python/object/apply:collections.Counter
+- {C: 99}
+937: !!python/object/apply:collections.Counter
+- {C: 1, T: 98}
+938: !!python/object/apply:collections.Counter
+- {C: 99}
+939: !!python/object/apply:collections.Counter
+- {C: 99}
+940: !!python/object/apply:collections.Counter
+- {T: 99}
+941: !!python/object/apply:collections.Counter
+- {T: 99}
+942: !!python/object/apply:collections.Counter
+- {C: 99}
+943: !!python/object/apply:collections.Counter
+- {C: 99}
+944: !!python/object/apply:collections.Counter
+- {T: 99}
+945: !!python/object/apply:collections.Counter
+- {C: 99}
+946: !!python/object/apply:collections.Counter
+- {A: 99}
+947: !!python/object/apply:collections.Counter
+- {C: 83, T: 16}
+948: !!python/object/apply:collections.Counter
+- {A: 2, C: 97}
+949: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+950: !!python/object/apply:collections.Counter
+- {T: 99}
+951: !!python/object/apply:collections.Counter
+- {G: 99}
+952: !!python/object/apply:collections.Counter
+- {G: 99}
+953: !!python/object/apply:collections.Counter
+- {G: 99}
+954: !!python/object/apply:collections.Counter
+- {C: 99}
+955: !!python/object/apply:collections.Counter
+- {A: 99}
+956: !!python/object/apply:collections.Counter
+- {T: 99}
+957: !!python/object/apply:collections.Counter
+- {C: 99}
+958: !!python/object/apply:collections.Counter
+- {A: 99}
+959: !!python/object/apply:collections.Counter
+- {C: 1, T: 98}
+960: !!python/object/apply:collections.Counter
+- {T: 99}
+961: !!python/object/apply:collections.Counter
+- {G: 99}
+962: !!python/object/apply:collections.Counter
+- {T: 99}
+963: !!python/object/apply:collections.Counter
+- {T: 99}
+964: !!python/object/apply:collections.Counter
+- {G: 98, T: 1}
+965: !!python/object/apply:collections.Counter
+- {G: 99}
+966: !!python/object/apply:collections.Counter
+- {C: 94, T: 5}
+967: !!python/object/apply:collections.Counter
+- {C: 99}
+968: !!python/object/apply:collections.Counter
+- {T: 99}
+969: !!python/object/apply:collections.Counter
+- {G: 99}
+970: !!python/object/apply:collections.Counter
+- {G: 99}
+971: !!python/object/apply:collections.Counter
+- {T: 99}
+972: !!python/object/apply:collections.Counter
+- {T: 99}
+973: !!python/object/apply:collections.Counter
+- {C: 99}
+974: !!python/object/apply:collections.Counter
+- {T: 99}
+975: !!python/object/apply:collections.Counter
+- {C: 99}
+976: !!python/object/apply:collections.Counter
+- {C: 99}
+977: !!python/object/apply:collections.Counter
+- {T: 99}
+978: !!python/object/apply:collections.Counter
+- {C: 94, T: 5}
+979: !!python/object/apply:collections.Counter
+- {A: 2, G: 97}
+980: !!python/object/apply:collections.Counter
+- {T: 99}
+981: !!python/object/apply:collections.Counter
+- {'-': 63, G: 34, T: 2}
+982: !!python/object/apply:collections.Counter
+- {'-': 63, G: 36}
+983: !!python/object/apply:collections.Counter
+- {'-': 63, T: 36}
+984: !!python/object/apply:collections.Counter
+- {'-': 59, C: 40}
+985: !!python/object/apply:collections.Counter
+- {'-': 59, A: 40}
+986: !!python/object/apply:collections.Counter
+- {'-': 59, C: 40}
+987: !!python/object/apply:collections.Counter
+- {A: 59, T: 40}
+988: !!python/object/apply:collections.Counter
+- {G: 99}
+989: !!python/object/apply:collections.Counter
+- {G: 40, T: 59}
+990: !!python/object/apply:collections.Counter
+- {A: 99}
+991: !!python/object/apply:collections.Counter
+- {G: 99}
+992: !!python/object/apply:collections.Counter
+- {C: 97, T: 2}
+993: !!python/object/apply:collections.Counter
+- {T: 99}
+994: !!python/object/apply:collections.Counter
+- {C: 9, G: 90}
+995: !!python/object/apply:collections.Counter
+- {T: 99}
+996: !!python/object/apply:collections.Counter
+- {G: 99}
+997: !!python/object/apply:collections.Counter
+- {G: 98, T: 1}
+998: !!python/object/apply:collections.Counter
+- {T: 99}
+999: !!python/object/apply:collections.Counter
+- {G: 99}
+1000: !!python/object/apply:collections.Counter
+- {G: 99}
+1001: !!python/object/apply:collections.Counter
+- {C: 99}
+1002: !!python/object/apply:collections.Counter
+- {T: 99}
+1003: !!python/object/apply:collections.Counter
+- {G: 99}
+1004: !!python/object/apply:collections.Counter
+- {G: 99}
+1005: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+1006: !!python/object/apply:collections.Counter
+- {G: 95, T: 4}
+1007: !!python/object/apply:collections.Counter
+- {C: 63, T: 36}
+1008: !!python/object/apply:collections.Counter
+- {T: 99}
+1009: !!python/object/apply:collections.Counter
+- {G: 99}
+1010: !!python/object/apply:collections.Counter
+- {T: 99}
+1011: !!python/object/apply:collections.Counter
+- {G: 99}
+1012: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+1013: !!python/object/apply:collections.Counter
+- {T: 99}
+1014: !!python/object/apply:collections.Counter
+- {C: 99}
+1015: !!python/object/apply:collections.Counter
+- {A: 1, C: 1, T: 97}
+1016: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+1017: !!python/object/apply:collections.Counter
+- {C: 32, G: 67}
+1018: !!python/object/apply:collections.Counter
+- {A: 99}
+1019: !!python/object/apply:collections.Counter
+- {G: 52, T: 47}
+1020: !!python/object/apply:collections.Counter
+- {G: 99}
+1021: !!python/object/apply:collections.Counter
+- {A: 99}
+1022: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+1023: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+1024: !!python/object/apply:collections.Counter
+- {A: 99}
+1025: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+1026: !!python/object/apply:collections.Counter
+- {G: 99}
+1027: !!python/object/apply:collections.Counter
+- {C: 97, T: 2}
+1028: !!python/object/apply:collections.Counter
+- {A: 9, C: 3, G: 87}
+1029: !!python/object/apply:collections.Counter
+- {C: 99}
+1030: !!python/object/apply:collections.Counter
+- {T: 99}
+1031: !!python/object/apply:collections.Counter
+- {C: 99}
+1032: !!python/object/apply:collections.Counter
+- {A: 99}
+1033: !!python/object/apply:collections.Counter
+- {G: 99}
+1034: !!python/object/apply:collections.Counter
+- {G: 99}
+1035: !!python/object/apply:collections.Counter
+- {T: 99}
+1036: !!python/object/apply:collections.Counter
+- {G: 99}
+1037: !!python/object/apply:collections.Counter
+- {A: 99}
+1038: !!python/object/apply:collections.Counter
+- {A: 99}
+1039: !!python/object/apply:collections.Counter
+- {A: 99}
+1040: !!python/object/apply:collections.Counter
+- {A: 99}
+1041: !!python/object/apply:collections.Counter
+- {A: 99}
+1042: !!python/object/apply:collections.Counter
+- {A: 25, C: 29, G: 45}
+1043: !!python/object/apply:collections.Counter
+- {G: 99}
+1044: !!python/object/apply:collections.Counter
+- {A: 99}
+1045: !!python/object/apply:collections.Counter
+- {C: 59, G: 40}
+1046: !!python/object/apply:collections.Counter
+- {A: 17, G: 82}
+1047: !!python/object/apply:collections.Counter
+- {C: 6, G: 93}
+1048: !!python/object/apply:collections.Counter
+- {A: 99}
+1049: !!python/object/apply:collections.Counter
+- {A: 11, C: 55, T: 33}
+1050: !!python/object/apply:collections.Counter
+- {C: 59, T: 40}
+1051: !!python/object/apply:collections.Counter
+- {T: 99}
+1052: !!python/object/apply:collections.Counter
+- {A: 99}
+1053: !!python/object/apply:collections.Counter
+- {C: 58, T: 41}
+1054: !!python/object/apply:collections.Counter
+- {A: 98, N: 1}
+1055: !!python/object/apply:collections.Counter
+- {C: 58, G: 1, T: 40}
+1056: !!python/object/apply:collections.Counter
+- {C: 99}
+1057: !!python/object/apply:collections.Counter
+- {C: 99}
+1058: !!python/object/apply:collections.Counter
+- {A: 99}
+1059: !!python/object/apply:collections.Counter
+- {G: 99}
+1060: !!python/object/apply:collections.Counter
+- {G: 99}
+1061: !!python/object/apply:collections.Counter
+- {C: 99}
+1062: !!python/object/apply:collections.Counter
+- {T: 99}
+1063: !!python/object/apply:collections.Counter
+- {G: 58, T: 41}
+1064: !!python/object/apply:collections.Counter
+- {C: 97, T: 2}
+1065: !!python/object/apply:collections.Counter
+- {A: 99}
+1066: !!python/object/apply:collections.Counter
+- {A: 96, G: 3}
+1067: !!python/object/apply:collections.Counter
+- {G: 99}
+1068: !!python/object/apply:collections.Counter
+- {C: 76, G: 6, T: 17}
+1069: !!python/object/apply:collections.Counter
+- {A: 82, G: 17}
+1070: !!python/object/apply:collections.Counter
+- {A: 10, G: 89}
+1071: !!python/object/apply:collections.Counter
+- {T: 99}
+1072: !!python/object/apply:collections.Counter
+- {G: 99}
+1073: !!python/object/apply:collections.Counter
+- {A: 98, C: 1}
+1074: !!python/object/apply:collections.Counter
+- {C: 99}
+1075: !!python/object/apply:collections.Counter
+- {A: 99}
+1076: !!python/object/apply:collections.Counter
+- {G: 99}
+1077: !!python/object/apply:collections.Counter
+- {T: 99}
+1078: !!python/object/apply:collections.Counter
+- {A: 8, G: 91}
+1079: !!python/object/apply:collections.Counter
+- {A: 17, C: 82}
+1080: !!python/object/apply:collections.Counter
+- {C: 99}
+1081: !!python/object/apply:collections.Counter
+- {C: 99}
+1082: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+1083: !!python/object/apply:collections.Counter
+- {G: 99}
+1084: !!python/object/apply:collections.Counter
+- {G: 99}
+1085: !!python/object/apply:collections.Counter
+- {G: 99}
+1086: !!python/object/apply:collections.Counter
+- {C: 99}
+1087: !!python/object/apply:collections.Counter
+- {T: 99}
+1088: !!python/object/apply:collections.Counter
+- {C: 99}
+1089: !!python/object/apply:collections.Counter
+- {T: 99}
+1090: !!python/object/apply:collections.Counter
+- {G: 99}
+1091: !!python/object/apply:collections.Counter
+- {A: 99}
+1092: !!python/object/apply:collections.Counter
+- {T: 99}
+1093: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+1094: !!python/object/apply:collections.Counter
+- {T: 99}
+1095: !!python/object/apply:collections.Counter
+- {A: 2, G: 97}
+1096: !!python/object/apply:collections.Counter
+- {T: 99}
+1097: !!python/object/apply:collections.Counter
+- {C: 99}
+1098: !!python/object/apply:collections.Counter
+- {T: 99}
+1099: !!python/object/apply:collections.Counter
+- {C: 99}
+1100: !!python/object/apply:collections.Counter
+- {T: 99}
+1101: !!python/object/apply:collections.Counter
+- {C: 99}
+1102: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+1103: !!python/object/apply:collections.Counter
+- {C: 99}
+1104: !!python/object/apply:collections.Counter
+- {A: 5, G: 94}
+1105: !!python/object/apply:collections.Counter
+- {A: 1, G: 98}
+1106: !!python/object/apply:collections.Counter
+- {T: 99}
+1107: !!python/object/apply:collections.Counter
+- {T: 99}
+1108: !!python/object/apply:collections.Counter
+- {C: 99}
+1109: !!python/object/apply:collections.Counter
+- {C: 99}
+1110: !!python/object/apply:collections.Counter
+- {T: 99}
+1111: !!python/object/apply:collections.Counter
+- {A: 99}
+1112: !!python/object/apply:collections.Counter
+- {A: 99}
+1113: !!python/object/apply:collections.Counter
+- {A: 98, G: 1}
+1114: !!python/object/apply:collections.Counter
+- {'-': 1, G: 98}
+1115: !!python/object/apply:collections.Counter
+- {'-': 3, C: 1, T: 95}
+1116: !!python/object/apply:collections.Counter
+- {'-': 3, G: 61, T: 35}
+1117: !!python/object/apply:collections.Counter
+- {'-': 3, T: 96}
+1118: !!python/object/apply:collections.Counter
+- {'-': 3, G: 96}
+1119: !!python/object/apply:collections.Counter
+- {'-': 3, A: 96}
+1120: !!python/object/apply:collections.Counter
+- {'-': 25, G: 74}
+1121: !!python/object/apply:collections.Counter
+- {'-': 25, A: 73, G: 1}
+1122: !!python/object/apply:collections.Counter
+- {'-': 25, C: 72, T: 2}
+1123: !!python/object/apply:collections.Counter
+- {'-': 25, A: 74}
+1124: !!python/object/apply:collections.Counter
+- {'-': 25, A: 4, C: 29, G: 41}
+1125: !!python/object/apply:collections.Counter
+- {'-': 23, C: 76}
+1126: !!python/object/apply:collections.Counter
+- {'-': 23, G: 17, T: 59}
+1127: !!python/object/apply:collections.Counter
+- {'-': 23, G: 76}
+1128: !!python/object/apply:collections.Counter
+- {'-': 23, C: 69, T: 7}
+1129: !!python/object/apply:collections.Counter
+- {'-': 23, C: 76}
+1130: !!python/object/apply:collections.Counter
+- {'-': 23, T: 76}
+1131: !!python/object/apply:collections.Counter
+- {'-': 23, T: 76}
+1132: !!python/object/apply:collections.Counter
+- {'-': 23, A: 8, C: 2, G: 66}
+1133: !!python/object/apply:collections.Counter
+- {'-': 23, G: 21, T: 55}
+1134: !!python/object/apply:collections.Counter
+- {'-': 50, G: 49}
+1135: !!python/object/apply:collections.Counter
+- {'-': 50, A: 1, G: 48}
+1136: !!python/object/apply:collections.Counter
+- {'-': 50, G: 49}
+1137: !!python/object/apply:collections.Counter
+- {'-': 50, G: 49}
+1138: !!python/object/apply:collections.Counter
+- {'-': 50, A: 49}
+1139: !!python/object/apply:collections.Counter
+- {'-': 60, C: 39}
+1140: !!python/object/apply:collections.Counter
+- {'-': 60, T: 39}
+1141: !!python/object/apply:collections.Counter
+- {'-': 60, G: 39}
+1142: !!python/object/apply:collections.Counter
+- {'-': 60, A: 39}
+1143: !!python/object/apply:collections.Counter
+- {'-': 60, G: 39}
+1144: !!python/object/apply:collections.Counter
+- {'-': 60, T: 39}
+1145: !!python/object/apply:collections.Counter
+- {'-': 60, G: 39}
+1146: !!python/object/apply:collections.Counter
+- {'-': 60, A: 39}
+1147: !!python/object/apply:collections.Counter
+- {'-': 60, T: 39}
+1148: !!python/object/apply:collections.Counter
+- {'-': 60, G: 39}
+1149: !!python/object/apply:collections.Counter
+- {'-': 60, C: 39}
+1150: !!python/object/apply:collections.Counter
+- {'-': 60, T: 39}
+1151: !!python/object/apply:collections.Counter
+- {'-': 60, G: 6, K: 1, T: 32}
+1152: !!python/object/apply:collections.Counter
+- {'-': 60, A: 1, C: 38}
+1153: !!python/object/apply:collections.Counter
+- {'-': 60, A: 39}
+1154: !!python/object/apply:collections.Counter
+- {'-': 60, T: 39}
+1155: !!python/object/apply:collections.Counter
+- {'-': 60, C: 38, T: 1}
+1156: !!python/object/apply:collections.Counter
+- {'-': 60, A: 4, C: 35}
+1157: !!python/object/apply:collections.Counter
+- {'-': 81, A: 4, C: 13, T: 1}
+1158: !!python/object/apply:collections.Counter
+- {'-': 81, A: 5, G: 13}
+1159: !!python/object/apply:collections.Counter
+- {'-': 81, C: 13, G: 5}
+1160: !!python/object/apply:collections.Counter
+- {'-': 81, C: 1, G: 4, T: 13}
+1161: !!python/object/apply:collections.Counter
+- {'-': 81, A: 13, C: 4, T: 1}
+1162: !!python/object/apply:collections.Counter
+- {'-': 81, A: 1, G: 4, T: 13}
+1163: !!python/object/apply:collections.Counter
+- {'-': 81, A: 4, G: 13, T: 1}
+1164: !!python/object/apply:collections.Counter
+- {'-': 81, A: 4, G: 1, T: 13}
+1165: !!python/object/apply:collections.Counter
+- {'-': 81, G: 13, T: 5}
+1166: !!python/object/apply:collections.Counter
+- {'-': 81, A: 13, G: 1, T: 4}
+1167: !!python/object/apply:collections.Counter
+- {'-': 81, A: 1, C: 17}
+1168: !!python/object/apply:collections.Counter
+- {'-': 85, A: 7, C: 1, T: 6}
+1169: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, T: 13}
+1170: !!python/object/apply:collections.Counter
+- {'-': 85, C: 10, T: 4}
+1171: !!python/object/apply:collections.Counter
+- {'-': 85, A: 13, C: 1}
+1172: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, G: 13}
+1173: !!python/object/apply:collections.Counter
+- {'-': 85, A: 13, G: 1}
+1174: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, T: 13}
+1175: !!python/object/apply:collections.Counter
+- {'-': 85, C: 13, T: 1}
+1176: !!python/object/apply:collections.Counter
+- {'-': 85, A: 6, C: 8}
+1177: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1178: !!python/object/apply:collections.Counter
+- {'-': 85, C: 11, T: 3}
+1179: !!python/object/apply:collections.Counter
+- {'-': 85, A: 2, C: 1, G: 11}
+1180: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, G: 13}
+1181: !!python/object/apply:collections.Counter
+- {'-': 85, A: 13, G: 1}
+1182: !!python/object/apply:collections.Counter
+- {'-': 85, A: 2, C: 10, T: 2}
+1183: !!python/object/apply:collections.Counter
+- {'-': 85, A: 3, C: 11}
+1184: !!python/object/apply:collections.Counter
+- {'-': 85, C: 11, G: 3}
+1185: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1186: !!python/object/apply:collections.Counter
+- {'-': 85, C: 2, T: 12}
+1187: !!python/object/apply:collections.Counter
+- {'-': 85, C: 12, T: 2}
+1188: !!python/object/apply:collections.Counter
+- {'-': 85, C: 2, T: 12}
+1189: !!python/object/apply:collections.Counter
+- {'-': 85, C: 1, T: 13}
+1190: !!python/object/apply:collections.Counter
+- {'-': 88, A: 1, T: 10}
+1191: !!python/object/apply:collections.Counter
+- {'-': 88, C: 9, G: 1, T: 1}
+1192: !!python/object/apply:collections.Counter
+- {'-': 88, A: 1, C: 1, T: 9}
+1193: !!python/object/apply:collections.Counter
+- {'-': 88, C: 1, G: 9, T: 1}
+1194: !!python/object/apply:collections.Counter
+- {'-': 87, C: 10, G: 1, T: 1}
+1195: !!python/object/apply:collections.Counter
+- {'-': 85, A: 9, C: 2, T: 3}
+1196: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 4, G: 9}
+1197: !!python/object/apply:collections.Counter
+- {'-': 85, C: 9, G: 1, T: 4}
+1198: !!python/object/apply:collections.Counter
+- {'-': 85, C: 2, G: 3, T: 9}
+1199: !!python/object/apply:collections.Counter
+- {'-': 85, C: 3, G: 9, T: 2}
+1200: !!python/object/apply:collections.Counter
+- {'-': 85, A: 3, C: 9, G: 1, T: 1}
+1201: !!python/object/apply:collections.Counter
+- {'-': 85, A: 9, C: 1, G: 3, T: 1}
+1202: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 4, T: 9}
+1203: !!python/object/apply:collections.Counter
+- {'-': 85, C: 9, T: 5}
+1204: !!python/object/apply:collections.Counter
+- {'-': 85, C: 1, G: 4, T: 9}
+1205: !!python/object/apply:collections.Counter
+- {'-': 85, C: 4, G: 9, T: 1}
+1206: !!python/object/apply:collections.Counter
+- {'-': 85, A: 13, G: 1}
+1207: !!python/object/apply:collections.Counter
+- {'-': 85, A: 10, G: 1, T: 3}
+1208: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 3, G: 1, T: 9}
+1209: !!python/object/apply:collections.Counter
+- {'-': 85, G: 9, T: 5}
+1210: !!python/object/apply:collections.Counter
+- {'-': 85, C: 1, G: 5, T: 8}
+1211: !!python/object/apply:collections.Counter
+- {'-': 85, A: 3, C: 1, G: 9, T: 1}
+1212: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, G: 1, T: 9}
+1213: !!python/object/apply:collections.Counter
+- {'-': 85, C: 8, T: 6}
+1214: !!python/object/apply:collections.Counter
+- {'-': 85, C: 2, G: 4, T: 8}
+1215: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 2, G: 9, T: 2}
+1216: !!python/object/apply:collections.Counter
+- {'-': 85, G: 5, T: 9}
+1217: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, G: 9, T: 4}
+1218: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 12, G: 1}
+1219: !!python/object/apply:collections.Counter
+- {'-': 85, C: 3, T: 11}
+1220: !!python/object/apply:collections.Counter
+- {'-': 85, C: 8, G: 4, T: 2}
+1221: !!python/object/apply:collections.Counter
+- {'-': 85, C: 10, T: 4}
+1222: !!python/object/apply:collections.Counter
+- {'-': 85, C: 1, G: 4, T: 9}
+1223: !!python/object/apply:collections.Counter
+- {'-': 85, A: 9, C: 3, T: 2}
+1224: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 2, T: 11}
+1225: !!python/object/apply:collections.Counter
+- {'-': 85, C: 3, T: 11}
+1226: !!python/object/apply:collections.Counter
+- {'-': 85, A: 6, C: 6, G: 1, T: 1}
+1227: !!python/object/apply:collections.Counter
+- {'-': 85, C: 1, G: 9, T: 4}
+1228: !!python/object/apply:collections.Counter
+- {'-': 85, A: 3, C: 9, G: 2}
+1229: !!python/object/apply:collections.Counter
+- {'-': 85, A: 9, C: 2, T: 3}
+1230: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, T: 13}
+1231: !!python/object/apply:collections.Counter
+- {'-': 85, A: 9, C: 4, T: 1}
+1232: !!python/object/apply:collections.Counter
+- {'-': 85, A: 10, C: 1, G: 3}
+1233: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 12, T: 1}
+1234: !!python/object/apply:collections.Counter
+- {'-': 85, A: 5, G: 9}
+1235: !!python/object/apply:collections.Counter
+- {'-': 85, T: 14}
+1236: !!python/object/apply:collections.Counter
+- {'-': 85, A: 8, G: 6}
+1237: !!python/object/apply:collections.Counter
+- {'-': 85, A: 10, G: 4}
+1238: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 4, G: 9}
+1239: !!python/object/apply:collections.Counter
+- {'-': 85, A: 5, G: 9}
+1240: !!python/object/apply:collections.Counter
+- {'-': 85, A: 6, C: 1, G: 4, T: 3}
+1241: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, G: 6, T: 4}
+1242: !!python/object/apply:collections.Counter
+- {'-': 85, G: 4, T: 10}
+1243: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, G: 4, T: 6}
+1244: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, G: 10}
+1245: !!python/object/apply:collections.Counter
+- {'-': 85, G: 14}
+1246: !!python/object/apply:collections.Counter
+- {'-': 85, G: 10, T: 4}
+1247: !!python/object/apply:collections.Counter
+- {'-': 85, A: 5, G: 5, T: 4}
+1248: !!python/object/apply:collections.Counter
+- {'-': 85, A: 10, G: 4}
+1249: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, G: 10}
+1250: !!python/object/apply:collections.Counter
+- {'-': 85, A: 6, C: 4, G: 4}
+1251: !!python/object/apply:collections.Counter
+- {'-': 85, C: 6, G: 4, T: 4}
+1252: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, G: 4, T: 6}
+1253: !!python/object/apply:collections.Counter
+- {'-': 85, C: 1, G: 13}
+1254: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, C: 4, G: 6}
+1255: !!python/object/apply:collections.Counter
+- {'-': 85, C: 8, T: 6}
+1256: !!python/object/apply:collections.Counter
+- {'-': 85, A: 2, C: 8, T: 4}
+1257: !!python/object/apply:collections.Counter
+- {'-': 85, A: 8, C: 2, G: 4}
+1258: !!python/object/apply:collections.Counter
+- {'-': 85, C: 10, G: 4}
+1259: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1260: !!python/object/apply:collections.Counter
+- {'-': 85, A: 2, C: 12}
+1261: !!python/object/apply:collections.Counter
+- {'-': 85, A: 2, C: 10, T: 2}
+1262: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, G: 2, T: 8}
+1263: !!python/object/apply:collections.Counter
+- {'-': 85, C: 6, G: 8}
+1264: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1265: !!python/object/apply:collections.Counter
+- {'-': 85, A: 2, C: 12}
+1266: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, C: 10}
+1267: !!python/object/apply:collections.Counter
+- {'-': 85, A: 8, T: 6}
+1268: !!python/object/apply:collections.Counter
+- {'-': 85, C: 5, G: 6, T: 3}
+1269: !!python/object/apply:collections.Counter
+- {'-': 85, C: 9, G: 3, T: 2}
+1270: !!python/object/apply:collections.Counter
+- {'-': 85, A: 1, C: 4, G: 7, T: 2}
+1271: !!python/object/apply:collections.Counter
+- {'-': 85, C: 9, G: 2, T: 3}
+1272: !!python/object/apply:collections.Counter
+- {'-': 85, A: 4, C: 2, G: 6, T: 2}
+1273: !!python/object/apply:collections.Counter
+- {'-': 85, C: 12, G: 2}
+1274: !!python/object/apply:collections.Counter
+- {'-': 85, C: 10, T: 4}
+1275: !!python/object/apply:collections.Counter
+- {'-': 85, C: 10, G: 4}
+1276: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1277: !!python/object/apply:collections.Counter
+- {'-': 85, C: 4, T: 10}
+1278: !!python/object/apply:collections.Counter
+- {'-': 85, C: 2, G: 4, T: 8}
+1279: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1280: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1281: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1282: !!python/object/apply:collections.Counter
+- {'-': 85, A: 2, C: 10, T: 2}
+1283: !!python/object/apply:collections.Counter
+- {'-': 85, A: 8, C: 2, T: 4}
+1284: !!python/object/apply:collections.Counter
+- {'-': 85, C: 14}
+1285: !!python/object/apply:collections.Counter
+- {'-': 85, C: 12, T: 2}
+1286: !!python/object/apply:collections.Counter
+- {'-': 85, C: 10, G: 2, T: 2}
+1287: !!python/object/apply:collections.Counter
+- {'-': 85, C: 6, G: 2, T: 6}
+1288: !!python/object/apply:collections.Counter
+- {'-': 85, A: 6, C: 2, G: 6}
+1289: !!python/object/apply:collections.Counter
+- {'-': 85, A: 6, C: 6, G: 2}
+1290: !!python/object/apply:collections.Counter
+- {'-': 85, C: 9, T: 5}
+1291: !!python/object/apply:collections.Counter
+- {'-': 85, C: 9, G: 3, T: 2}
+1292: !!python/object/apply:collections.Counter
+- {'-': 85, C: 5, G: 2, T: 7}
+1293: !!python/object/apply:collections.Counter
+- {'-': 86, C: 4, G: 7, T: 2}
+1294: !!python/object/apply:collections.Counter
+- {'-': 86, A: 1, G: 4, T: 8}
+1295: !!python/object/apply:collections.Counter
+- {'-': 86, C: 3, G: 6, T: 4}
+1296: !!python/object/apply:collections.Counter
+- {'-': 85, C: 6, T: 8}
+1297: !!python/object/apply:collections.Counter
+- {'-': 86, C: 7, T: 6}
+1298: !!python/object/apply:collections.Counter
+- {'-': 86, C: 10, G: 1, T: 2}
+1299: !!python/object/apply:collections.Counter
+- {'-': 86, A: 2, C: 2, T: 9}
+1300: !!python/object/apply:collections.Counter
+- {'-': 86, C: 13}
+1301: !!python/object/apply:collections.Counter
+- {'-': 86, C: 11, T: 2}
+1302: !!python/object/apply:collections.Counter
+- {'-': 86, C: 7, T: 6}
+1303: !!python/object/apply:collections.Counter
+- {'-': 86, C: 9, G: 2, T: 2}
+1304: !!python/object/apply:collections.Counter
+- {'-': 86, A: 3, C: 8, G: 2}
+1305: !!python/object/apply:collections.Counter
+- {'-': 86, A: 2, C: 9, T: 2}
+1306: !!python/object/apply:collections.Counter
+- {'-': 86, C: 5, G: 2, T: 6}
+1307: !!python/object/apply:collections.Counter
+- {'-': 86, A: 2, C: 5, G: 6}
+1308: !!python/object/apply:collections.Counter
+- {'-': 86, A: 6, T: 7}
+1309: !!python/object/apply:collections.Counter
+- {'-': 86, C: 2, G: 5, T: 6}
+1310: !!python/object/apply:collections.Counter
+- {'-': 86, A: 3, C: 8, T: 2}
+1311: !!python/object/apply:collections.Counter
+- {'-': 86, A: 2, C: 9, G: 2}
+1312: !!python/object/apply:collections.Counter
+- {'-': 86, A: 6, C: 5, T: 2}
+1313: !!python/object/apply:collections.Counter
+- {'-': 86, C: 6, T: 7}
+1314: !!python/object/apply:collections.Counter
+- {'-': 86, C: 2, G: 4, T: 7}
+1315: !!python/object/apply:collections.Counter
+- {'-': 86, A: 1, G: 5, T: 7}
+1316: !!python/object/apply:collections.Counter
+- {'-': 86, C: 4, G: 3, T: 6}
+1317: !!python/object/apply:collections.Counter
+- {'-': 86, C: 8, T: 5}
+1318: !!python/object/apply:collections.Counter
+- {'-': 86, C: 6, T: 7}
+1319: !!python/object/apply:collections.Counter
+- {'-': 86, C: 5, G: 2, T: 6}
+1320: !!python/object/apply:collections.Counter
+- {'-': 86, C: 2, G: 6, T: 5}
+1321: !!python/object/apply:collections.Counter
+- {'-': 86, C: 5, T: 8}
+1322: !!python/object/apply:collections.Counter
+- {'-': 86, C: 2, T: 11}
+1323: !!python/object/apply:collections.Counter
+- {'-': 86, C: 5, G: 2, T: 6}
+1324: !!python/object/apply:collections.Counter
+- {'-': 86, A: 4, C: 9}
+1325: !!python/object/apply:collections.Counter
+- {'-': 86, A: 6, C: 3, G: 2, T: 2}
+1326: !!python/object/apply:collections.Counter
+- {'-': 86, C: 7, G: 6}
+1327: !!python/object/apply:collections.Counter
+- {'-': 86, A: 2, C: 8, T: 3}
+1328: !!python/object/apply:collections.Counter
+- {'-': 86, A: 8, G: 5}
+1329: !!python/object/apply:collections.Counter
+- {'-': 86, A: 5, C: 2, G: 6}
+1330: !!python/object/apply:collections.Counter
+- {'-': 86, A: 6, G: 2, T: 5}
+1331: !!python/object/apply:collections.Counter
+- {'-': 86, A: 2, C: 3, G: 8}
+1332: !!python/object/apply:collections.Counter
+- {'-': 86, A: 6, C: 5, T: 2}
+1333: !!python/object/apply:collections.Counter
+- {'-': 86, A: 3, C: 8, G: 2}
+1334: !!python/object/apply:collections.Counter
+- {'-': 86, A: 3, C: 5, G: 5}
+1335: !!python/object/apply:collections.Counter
+- {'-': 86, G: 8, T: 5}
+1336: !!python/object/apply:collections.Counter
+- {'-': 86, G: 13}
+1337: !!python/object/apply:collections.Counter
+- {'-': 86, C: 2, G: 6, T: 5}
+1338: !!python/object/apply:collections.Counter
+- {'-': 86, C: 9, T: 4}
+1339: !!python/object/apply:collections.Counter
+- {'-': 86, C: 5, G: 2, T: 6}
+1340: !!python/object/apply:collections.Counter
+- {'-': 86, C: 2, G: 8, T: 3}
+1341: !!python/object/apply:collections.Counter
+- {'-': 86, A: 4, G: 9}
+1342: !!python/object/apply:collections.Counter
+- {'-': 86, C: 2, G: 8, T: 3}
+1343: !!python/object/apply:collections.Counter
+- {'-': 88, C: 8, T: 3}
+1344: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 9}
+1345: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, C: 3, G: 5}
+1346: !!python/object/apply:collections.Counter
+- {'-': 88, A: 5, T: 6}
+1347: !!python/object/apply:collections.Counter
+- {'-': 88, A: 1, C: 6, G: 4}
+1348: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 3, T: 6}
+1349: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, C: 8}
+1350: !!python/object/apply:collections.Counter
+- {'-': 88, C: 6, G: 5}
+1351: !!python/object/apply:collections.Counter
+- {'-': 88, A: 11}
+1352: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, G: 3, T: 6}
+1353: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, C: 6, G: 2}
+1354: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 4, G: 4, T: 1}
+1355: !!python/object/apply:collections.Counter
+- {'-': 88, C: 6, G: 3, T: 2}
+1356: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, G: 2, T: 6}
+1357: !!python/object/apply:collections.Counter
+- {'-': 88, G: 11}
+1358: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, G: 3, T: 6}
+1359: !!python/object/apply:collections.Counter
+- {'-': 88, C: 10, T: 1}
+1360: !!python/object/apply:collections.Counter
+- {'-': 88, C: 2, T: 9}
+1361: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, G: 3, T: 6}
+1362: !!python/object/apply:collections.Counter
+- {'-': 88, G: 3, T: 8}
+1363: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, G: 7}
+1364: !!python/object/apply:collections.Counter
+- {'-': 88, C: 9, T: 2}
+1365: !!python/object/apply:collections.Counter
+- {'-': 88, C: 5, T: 6}
+1366: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, T: 8}
+1367: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 6, T: 3}
+1368: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, G: 3, T: 2}
+1369: !!python/object/apply:collections.Counter
+- {'-': 88, C: 2, T: 9}
+1370: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, C: 5}
+1371: !!python/object/apply:collections.Counter
+- {'-': 88, C: 2, T: 9}
+1372: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, G: 6, T: 2}
+1373: !!python/object/apply:collections.Counter
+- {'-': 88, C: 6, G: 2, T: 3}
+1374: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, C: 3, T: 2}
+1375: !!python/object/apply:collections.Counter
+- {'-': 88, C: 10, T: 1}
+1376: !!python/object/apply:collections.Counter
+- {'-': 88, A: 1, C: 2, T: 8}
+1377: !!python/object/apply:collections.Counter
+- {'-': 88, G: 6, T: 5}
+1378: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, C: 1, G: 2, T: 2}
+1379: !!python/object/apply:collections.Counter
+- {'-': 88, C: 1, G: 8, T: 2}
+1380: !!python/object/apply:collections.Counter
+- {'-': 88, C: 5, T: 6}
+1381: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, T: 5}
+1382: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, G: 1, T: 4}
+1383: !!python/object/apply:collections.Counter
+- {'-': 88, T: 11}
+1384: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 1, G: 8}
+1385: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, C: 2, T: 5}
+1386: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 2, T: 7}
+1387: !!python/object/apply:collections.Counter
+- {'-': 88, G: 4, T: 7}
+1388: !!python/object/apply:collections.Counter
+- {'-': 88, A: 1, G: 2, T: 8}
+1389: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, C: 7}
+1390: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, T: 9}
+1391: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 2, T: 7}
+1392: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, T: 7}
+1393: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, C: 2, G: 2, T: 4}
+1394: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 4, T: 5}
+1395: !!python/object/apply:collections.Counter
+- {'-': 88, A: 5, T: 6}
+1396: !!python/object/apply:collections.Counter
+- {'-': 88, A: 1, C: 8, T: 2}
+1397: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 4, G: 1, T: 4}
+1398: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 1, G: 2, T: 6}
+1399: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, C: 4, T: 4}
+1400: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 1, G: 4, T: 4}
+1401: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, T: 7}
+1402: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, G: 1, T: 6}
+1403: !!python/object/apply:collections.Counter
+- {'-': 88, A: 7, G: 4}
+1404: !!python/object/apply:collections.Counter
+- {'-': 88, A: 7, T: 4}
+1405: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, C: 2, G: 2, T: 3}
+1406: !!python/object/apply:collections.Counter
+- {'-': 88, A: 9, T: 2}
+1407: !!python/object/apply:collections.Counter
+- {'-': 89, A: 6, T: 4}
+1408: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, C: 1, T: 4}
+1409: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, T: 5}
+1410: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, C: 2, G: 1, T: 4}
+1411: !!python/object/apply:collections.Counter
+- {'-': 88, A: 5, C: 2, T: 4}
+1412: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, C: 2, T: 5}
+1413: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, C: 2, G: 2, T: 4}
+1414: !!python/object/apply:collections.Counter
+- {'-': 88, C: 4, T: 7}
+1415: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, T: 9}
+1416: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, G: 4, T: 5}
+1417: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, C: 3, T: 6}
+1418: !!python/object/apply:collections.Counter
+- {'-': 88, A: 4, C: 1, T: 6}
+1419: !!python/object/apply:collections.Counter
+- {'-': 88, A: 2, G: 2, T: 7}
+1420: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, T: 5}
+1421: !!python/object/apply:collections.Counter
+- {'-': 88, A: 7, T: 4}
+1422: !!python/object/apply:collections.Counter
+- {'-': 88, A: 6, T: 5}
+1423: !!python/object/apply:collections.Counter
+- {'-': 88, A: 3, G: 2, T: 6}
+1424: !!python/object/apply:collections.Counter
+- {'-': 90, A: 4, G: 3, T: 2}
+1425: !!python/object/apply:collections.Counter
+- {'-': 90, A: 5, T: 4}
+1426: !!python/object/apply:collections.Counter
+- {'-': 90, A: 5, G: 4}
+1427: !!python/object/apply:collections.Counter
+- {'-': 93, A: 6}
+1428: !!python/object/apply:collections.Counter
+- {'-': 93, A: 6}
+1429: !!python/object/apply:collections.Counter
+- {'-': 93, T: 6}
+1430: !!python/object/apply:collections.Counter
+- {'-': 93, A: 3, C: 3}
+1431: !!python/object/apply:collections.Counter
+- {'-': 93, A: 3, T: 3}
+1432: !!python/object/apply:collections.Counter
+- {'-': 93, A: 3, G: 3}
+1433: !!python/object/apply:collections.Counter
+- {'-': 93, A: 3, T: 3}
+1434: !!python/object/apply:collections.Counter
+- {'-': 93, A: 1, C: 1, T: 4}
+1435: !!python/object/apply:collections.Counter
+- {'-': 94, C: 3, T: 2}
+1436: !!python/object/apply:collections.Counter
+- {'-': 94, A: 1, T: 4}
+1437: !!python/object/apply:collections.Counter
+- {'-': 94, G: 3, T: 2}
+1438: !!python/object/apply:collections.Counter
+- {'-': 94, A: 1, T: 4}
+1439: !!python/object/apply:collections.Counter
+- {'-': 94, A: 3, C: 1, T: 1}
+1440: !!python/object/apply:collections.Counter
+- {'-': 94, G: 1, T: 4}
+1441: !!python/object/apply:collections.Counter
+- {'-': 95, A: 4}
+1442: !!python/object/apply:collections.Counter
+- {'-': 95, A: 1, T: 3}
+1443: !!python/object/apply:collections.Counter
+- {'-': 95, A: 3, T: 1}
+1444: !!python/object/apply:collections.Counter
+- {'-': 95, T: 4}
+1445: !!python/object/apply:collections.Counter
+- {'-': 95, G: 4}
+1446: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1447: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, T: 1}
+1448: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1449: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, C: 1}
+1450: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, C: 1}
+1451: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1452: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, T: 1}
+1453: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1454: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1455: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1456: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1457: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1458: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1459: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1460: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1461: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1462: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, T: 1}
+1463: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, T: 1}
+1464: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1465: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, G: 1}
+1466: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1467: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, T: 1}
+1468: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1469: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1470: !!python/object/apply:collections.Counter
+- {'-': 96, A: 2, T: 1}
+1471: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1472: !!python/object/apply:collections.Counter
+- {'-': 96, A: 3}
+1473: !!python/object/apply:collections.Counter
+- {'-': 97, A: 2}
+1474: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+1475: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+1476: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, T: 1}
+1477: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+1478: !!python/object/apply:collections.Counter
+- {'-': 97, A: 2}
+1479: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+1480: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, G: 1}
+1481: !!python/object/apply:collections.Counter
+- {'-': 97, A: 2}
+1482: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, T: 1}
+1483: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, T: 1}
+1484: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, C: 1}
+1485: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, C: 1}
+1486: !!python/object/apply:collections.Counter
+- {'-': 97, A: 1, T: 1}
+1487: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1488: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1489: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1490: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1491: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1492: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1493: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1494: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1495: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1496: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1497: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1498: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1499: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1500: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1501: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1502: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1503: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1504: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1505: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1506: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1507: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1508: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1509: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1510: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1511: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1512: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1513: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1514: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1515: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1516: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1517: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1518: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1519: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1520: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1521: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1522: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1523: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1524: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1525: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1526: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1527: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1528: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1529: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1530: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1531: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1532: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1533: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1534: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1535: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1536: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1537: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1538: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1539: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1540: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1541: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1542: !!python/object/apply:collections.Counter
+- {'-': 98, G: 1}
+1543: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1544: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1545: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1546: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1547: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1548: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1549: !!python/object/apply:collections.Counter
+- {'-': 98, T: 1}
+1550: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1551: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1552: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1553: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1554: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1555: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1556: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1557: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1558: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1559: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1560: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1561: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1562: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1563: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1564: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1565: !!python/object/apply:collections.Counter
+- {'-': 98, A: 1}
+1566: !!python/object/apply:collections.Counter
+- {'-': 99}
+1567: !!python/object/apply:collections.Counter
+- {'-': 99}
+1568: !!python/object/apply:collections.Counter
+- {'-': 99}
+1569: !!python/object/apply:collections.Counter
+- {'-': 99}
